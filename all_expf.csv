@@ -1,0 +1,1619 @@
+did,all_exp
+ID8241,RNAi-V9B23 ;feeding-drop ;48h
+ID8242,RNAi-V9B23 ;feeding-drop ;48h
+ID8243,RNAi-V9B23 ;feeding-drop ;48h
+ID2057,RNAi-V9B23 ;feeding-drop ;24h
+ID2059,RNAi-V9B23 ;feeding-drop ;24h
+ID2070,RNAi-V9B23 ;feeding-drop ;24h
+ID2071,RNAi-V9B23 ;feeding-drop ;24h
+ID2072,RNAi-V9B23 ;feeding-drop ;24h
+ID2073,RNAi-V9B23 ;feeding-drop ;24h
+ID4657,RNAi-V9B23 ;feeding-drop ;24h
+ID4658,RNAi-V9B23 ;feeding-drop ;24h
+ID4659,RNAi-V9B23 ;feeding-drop ;24h
+ID4660,RNAi-V9B23 ;feeding-drop ;24h
+ID4661,RNAi-V9B23 ;feeding-drop ;24h
+ID4662,RNAi-V9B23 ;feeding-drop ;24h
+ID4663,RNAi-V9B23 ;feeding-drop ;24h
+ID8326,RNAi-V9B23 ;feeding-3mM ;48h
+ID8329,RNAi-V9B23 ;feeding-3mM ;48h
+ID8330,RNAi-V9B23 ;feeding-3mM ;48h
+ID8331,RNAi-V9B23 ;feeding-3mM ;48h
+ID8332,RNAi-V9B23 ;feeding-3mM ;48h
+ID8333,RNAi-V9B23 ;feeding-3mM ;48h
+ID9751,RNAi ;feeding-drop ;24h
+ID9752,RNAi ;feeding-drop ;24h
+ID9753,RNAi ;feeding-drop ;24h
+ID9754,RNAi ;feeding-drop ;24h
+ID9755,RNAi ;feeding-drop ;24h
+ID9756,RNAi ;feeding-drop ;24h
+ID9757,RNAi ;feeding-drop ;24h
+ID9758,RNAi ;feeding-drop ;24h
+ID1968,RNAi-III4J10 ;feeding-drop ;24h
+ID1967,RNAi-III4J10 ;feeding-drop ;24h
+ID1969,RNAi-III4J10 ;feeding-drop ;24h
+ID1970,RNAi-III4J10 ;feeding-drop ;24h
+ID1971,RNAi-III4J10 ;feeding-drop ;24h
+ID1972,RNAi-III4J10 ;feeding-drop ;24h
+ID1973,RNAi-III4J10 ;feeding-drop ;24h
+ID929,RNAi-III4J10 ;feeding-drop ;24h
+ID942,RNAi-III4J10 ;feeding-drop ;24h
+ID944,RNAi-III4J10 ;feeding-drop ;24h
+ID938,RNAi-III4J10 ;feeding-drop ;24h
+ID941,RNAi-III4J10 ;feeding-drop ;24h
+ID6051,RNAi ;III-4J10 ;feeding-3mM_48h
+ID6052,RNAi ;III-4J10 ;feeding-3mM_48h
+ID6053,RNAi ;III-4J10 ;feeding-3mM_48h
+ID6054,RNAi ;III-4J10 ;feeding-3mM_48h
+ID6055,RNAi ;III-4J10 ;feeding-3mM_48h
+ID6058,RNAi ;III-4J10 ;feeding-3mM_48h
+ID6102,RNAi ;III-4J10 ;feeding-3mM_48h
+ID6103,RNAi ;III-4J10 ;feeding-3mM_48h
+ID6119,RNAi ;III-4J10 ;feeding-3mM_48h
+ID6100,RNAi ;III-4J10 ;feeding-3mM_48h
+ID6094,RNAi ;III-4J10 ;feeding-3mM_48h
+ID6095,RNAi ;III-4J10 ;feeding-3mM_48h
+ID11337,RNAi-III4J10 ;feeding-drop ;24h
+ID11340,RNAi-III4J10 ;feeding-drop ;24h
+ID11342,RNAi-III4J10 ;feeding-drop ;24h
+ID11321,RNAi-III4J10 ;feeding-drop ;24h
+ID11324,RNAi-III4J10 ;feeding-drop ;24h
+ID11325,RNAi-III4J10 ;feeding-drop ;24h
+ID11326,RNAi-III4J10 ;feeding-drop ;24h
+ID11327,RNAi-III4J10 ;feeding-drop ;24h
+ID11328,RNAi-III4J10 ;feeding-drop ;24h
+ID8107,mutant-or207 ;;RNAi-III4J10 ;feeding-drop ;48h
+ID8108,mutant-or207 ;;RNAi-III4J10 ;feeding-drop ;48h
+ID8109,mutant-or207 ;;RNAi-III4J10 ;feeding-drop ;48h
+ID8110,mutant-or207 ;;RNAi-III4J10 ;feeding-drop ;48h
+ID8111,mutant-or207 ;;RNAi-III4J10 ;feeding-drop ;48h
+ID8112,mutant-or207 ;;RNAi-III4J10 ;feeding-drop ;48h
+ID8215,mutant-or207 ;;RNAi-III4J10 ;feeding-drop ;48h
+ID8217,mutant-or207 ;;RNAi-III4J10 ;feeding-drop ;48h
+ID7507,mutant-or207
+ID7508,mutant-or207
+ID7509,mutant-or207
+ID7510,mutant-or207
+ID7511,mutant-or207
+ID7555,mutant-or207
+ID7557,mutant-or207
+ID7558,mutant-or207
+ID7478,mutant-or207
+ID7479,mutant-or207
+ID7480,mutant-or207
+ID7653,none
+ID7655,none
+ID7656,none
+ID7657,none
+ID7658,none
+ID7660,none
+ID7512,none
+ID7513,none
+ID7514,none
+ID7515,none
+ID7516,none
+ID7551,none
+ID7552,none
+ID7553,none
+ID7554,none
+ID8519,mutant-or207 ;;RNAi-I7P07 ;feeding-1mM ;24h
+ID8520,mutant-or207 ;;RNAi-I7P07 ;feeding-1mM ;24h
+ID8521,mutant-or207 ;;RNAi-I7P07 ;feeding-1mM ;24h
+ID8522,mutant-or207 ;;RNAi-I7P07 ;feeding-1mM ;24h
+ID8523,mutant-or207 ;;RNAi-I7P07 ;feeding-1mM ;24h
+ID8509,mutant-or207 ;;RNAi-I7P07 ;feeding-1mM ;24h
+ID8510,mutant-or207 ;;RNAi-I7P07 ;feeding-1mM ;24h
+ID8511,mutant-or207 ;;RNAi-I7P07 ;feeding-1mM ;24h
+ID8516,mutant-or207 ;;RNAi-I7P07 ;feeding-1mM ;24h
+ID8517,mutant-or207 ;;RNAi-I7P07 ;feeding-1mM ;24h
+ID8518,mutant-or207 ;;RNAi-I7P07 ;feeding-1mM ;24h
+ID2429,mutant-ne992
+ID2436,mutant-ne992
+ID2404,mutant-ne992
+ID2405,mutant-ne992
+ID2406,mutant-ne992
+ID2407,mutant-ne992
+ID2408,mutant-ne992
+ID2410,mutant-ne992
+ID2411,mutant-ne992
+ID2412,mutant-ne992
+ID2415,mutant-ne992
+ID2416,mutant-ne992
+ID2431,mutant-ne992
+ID2432,mutant-ne992
+ID2433,mutant-ne992
+ID2435,mutant-ne992
+ID2437,mutant-ne992
+ID2438,mutant-ne992
+ID2439,mutant-ne992
+ID2441,mutant-ne992
+ID2442,mutant-ne992
+ID2444,mutant-ne992
+ID2443,mutant-ne992
+ID1951,RNAi-vec10 ;feeding-drop ;24h
+ID1952,RNAi-vec10 ;feeding-drop ;24h
+ID1954,RNAi-vec10 ;feeding-drop ;24h
+ID1955,RNAi-vec10 ;feeding-drop ;24h
+ID1956,RNAi-vec10 ;feeding-drop ;24h
+ID1957,RNAi-vec10 ;feeding-drop ;24h
+ID1958,RNAi-vec10 ;feeding-drop ;24h
+ID1803,RNAi-II6F21 ;feeding-drop ;24h
+ID1804,RNAi-II6F21 ;feeding-drop ;24h
+ID1806,RNAi-II6F21 ;feeding-drop ;24h
+ID1807,RNAi-II6F21 ;feeding-drop ;24h
+ID1808,RNAi-II6F21 ;feeding-drop ;24h
+ID1805,RNAi-II6F21 ;feeding-drop ;24h
+ID1986,RNAi-II6F21 ;feeding-drop ;24h
+ID1987,RNAi-II6F21 ;feeding-drop ;24h
+ID1988,RNAi-II6F21 ;feeding-drop ;24h
+ID1983,RNAi-II6F21 ;feeding-drop ;24h
+ID1982,RNAi-II6F21 ;feeding-drop ;24h
+ID1984,RNAi-II6F21 ;feeding-drop ;24h
+ID1820,RNAi-IV6P21 ;feeding-drop ;24h
+ID1822,RNAi-IV6P21 ;feeding-drop ;24h
+ID1823,RNAi-IV6P21 ;feeding-drop ;24h
+ID1825,RNAi-IV6P21 ;feeding-drop ;24h
+ID1826,RNAi-IV6P21 ;feeding-drop ;24h
+ID1827,RNAi-IV6P21 ;feeding-drop ;24h
+ID1821,RNAi-IV6P21 ;feeding-drop ;24h
+ID1824,RNAi-IV6P21 ;feeding-drop ;24h
+ID8228,RNAi-IV6P21 ;feeding-drop ;24h
+ID8229,RNAi-IV6P21 ;feeding-drop ;24h
+ID8230,RNAi-IV6P21 ;feeding-drop ;24h
+ID8231,RNAi-IV6P21 ;feeding-drop ;24h
+ID8232,RNAi-IV6P21 ;feeding-drop ;24h
+ID11370,RNAi-IV6P21 ;feeding-drop ;24h
+ID11396,RNAi-IV6P21 ;feeding-drop ;24h
+ID11397,RNAi-IV6P21 ;feeding-drop ;24h
+ID11398,RNAi-IV6P21 ;feeding-drop ;24h
+ID1828,RNAi-III4I05 ;feeding-drop ;24h
+ID1829,RNAi-III4I05 ;feeding-drop ;24h
+ID1830,RNAi-III4I05 ;feeding-drop ;24h
+ID1831,RNAi-III4I05 ;feeding-drop ;24h
+ID1832,RNAi-III4I05 ;feeding-drop ;24h
+ID1833,RNAi-III4I05 ;feeding-drop ;24h
+ID1834,RNAi-III4I05 ;feeding-drop ;24h
+ID2259,RNAi-I3P15 ;feeding-drop ;24h
+ID2260,RNAi-I3P15 ;feeding-drop ;24h
+ID2261,RNAi-I3P15 ;feeding-drop ;24h
+ID2263,RNAi-I3P15 ;feeding-drop ;24h
+ID2264,RNAi-I3P15 ;feeding-drop ;24h
+ID2265,RNAi-I3P15 ;feeding-drop ;24h
+ID2266,RNAi-I3P15 ;feeding-drop ;24h
+ID2273,RNAi-I3P15 ;feeding-drop ;24h
+ID2267,RNAi-I3P15 ;feeding-drop ;24h
+ID2268,RNAi-I3P15 ;feeding-drop ;24h
+ID2269,RNAi-I3P15 ;feeding-drop ;24h
+ID2270,RNAi-I3P15 ;feeding-drop ;24h
+ID2271,RNAi-I3P15 ;feeding-drop ;24h
+ID2272,RNAi-I3P15 ;feeding-drop ;24h
+ID2262,RNAi-I3P15 ;feeding-drop ;24h
+ID1655,RNAi-III4I09 ;feeding-drop ;24h
+ID1656,RNAi-III4I09 ;feeding-drop ;24h
+ID1658,RNAi-III4I09 ;feeding-drop ;24h
+ID1660,RNAi-III4I09 ;feeding-drop ;24h
+ID1659,RNAi-III4I09 ;feeding-drop ;24h
+ID1027,RNAi-I3L24 ;feeding-drop ;24h
+ID1028,RNAi-I3L24 ;feeding-drop ;24h
+ID1029,RNAi-I3L24 ;feeding-drop ;24h
+ID1030,RNAi-I3L24 ;feeding-drop ;24h
+ID1031,RNAi-I3L24 ;feeding-drop ;24h
+ID1032,RNAi-I3L24 ;feeding-drop ;24h
+ID1033,RNAi-I3L24 ;feeding-drop ;24h
+ID5255,none
+ID5256,none
+ID5257,none
+ID7620,none
+ID7621,none
+ID7622,none
+ID7623,none
+ID7624,none
+ID7628,none
+ID4985,none
+ID4986,none
+ID4987,none
+ID4989,none
+ID4991,none
+ID4992,none
+ID1752,none
+ID1753,none
+ID1801,none
+ID1809,none
+ID1864,none
+ID1865,none
+ID1867,none
+ID1868,none
+ID1869,none
+ID1866,none
+ID1901,none
+ID1902,none
+ID1903,none
+ID1904,none
+ID1905,none
+ID1906,none
+ID1907,none
+ID1908,none
+ID1914,none
+ID1915,none
+ID1916,none
+ID1917,none
+ID1918,none
+ID1919,none
+ID1601,none
+ID1602,none
+ID1603,none
+ID1604,none
+ID9251,none
+ID9302,none
+ID9303,none
+ID9304,none
+ID9305,none
+ID9306,none
+ID9308,none
+ID9309,none
+ID9310,none
+ID9307,none
+ID11180,none
+ID11182,none
+ID11183,none
+ID11184,none
+ID11185,none
+ID11188,none
+ID11203,none
+ID11204,none
+ID11205,none
+ID11206,none
+ID11207,none
+ID11208,none
+ID11254,none
+ID11267,none
+ID11268,none
+ID11269,none
+ID11271,none
+ID11257,none
+ID11258,none
+ID11260,none
+ID11261,none
+ID11265,none
+ID11274,none
+ID11279,none
+ID11297,none
+ID11302,none
+ID11163,none
+ID11164,none
+ID11165,none
+ID11166,none
+ID11168,none
+ID11177,none
+ID11178,none
+ID11179,none
+ID11169,none
+ID11170,none
+ID11171,none
+ID11172,none
+ID11174,none
+ID11176,none
+ID11561,none
+ID11562,none
+ID11563,none
+ID11552,none
+ID11553,none
+ID11554,none
+ID11555,none
+ID11556,none
+ID11557,none
+ID11558,none
+ID11559,none
+ID12245,none
+ID12246,none
+ID12247,none
+ID12249,none
+ID12251,none
+ID12252,none
+ID12253,none
+ID12256,none
+ID11962,none
+ID11963,none
+ID11965,none
+ID11966,none
+ID11967,none
+ID11968,none
+ID11969,none
+ID11970,none
+ID11971,none
+ID11973,none
+ID11976,none
+ID11977,none
+ID11978,none
+ID11983,none
+ID11984,none
+ID12045,none
+ID12047,none
+ID3920,RNAi-vec7 ;feeding-drop ;24h
+ID3921,RNAi-vec7 ;feeding-drop ;24h
+ID3925,RNAi-vec7 ;feeding-drop ;24h
+ID2566,RNAi-II5H18 ;feeding-drop ;24h
+ID2567,RNAi-II5H18 ;feeding-drop ;24h
+ID2569,RNAi-II5H18 ;feeding-drop ;24h
+ID2570,RNAi-II5H18 ;feeding-drop ;24h
+ID2572,RNAi-II5H18 ;feeding-drop ;24h
+ID2573,RNAi-II5H18 ;feeding-drop ;24h
+ID2604,RNAi-II5H18 ;feeding-drop ;24h
+ID1003,RNAi-III5B24 ;feeding-drop ;24h
+ID2002,RNAi-III5B24 ;feeding-drop ;24h
+ID2006,RNAi-III5B24 ;feeding-drop ;24h
+ID2007,RNAi-III5B24 ;feeding-drop ;24h
+ID2008,RNAi-III5B24 ;feeding-drop ;24h
+ID2010,RNAi-III5B24 ;feeding-drop ;24h
+ID2011,RNAi-III5B24 ;feeding-drop ;24h
+ID2013,RNAi-III5B24 ;feeding-drop ;24h
+ID2014,RNAi-III5B24 ;feeding-drop ;24h
+ID5966,RNAi-III5B24 ;feeding-drop ;48h
+ID5968,RNAi-III5B24 ;feeding-drop ;48h
+ID5971,RNAi-III5B24 ;feeding-drop ;48h
+ID5967,RNAi-III5B24 ;feeding-drop ;48h
+ID5861,RNAi-III5B24 ;feeding-drop ;36h
+ID5854,RNAi-III5B24 ;feeding-drop ;36h
+ID5855,RNAi-III5B24 ;feeding-drop ;36h
+ID5857,RNAi-III5B24 ;feeding-drop ;36h
+ID5858,RNAi-III5B24 ;feeding-drop ;36h
+ID5859,RNAi-III5B24 ;feeding-drop ;36h
+ID3756,RNAi-IV3N16 ;feeding-drop ;24h
+ID3758,RNAi-IV3N16 ;feeding-drop ;24h
+ID3364,RNAi-II7F24 ;feeding-drop ;24h
+ID3365,RNAi-II7F24 ;feeding-drop ;24h
+ID3366,RNAi-II7F24 ;feeding-drop ;24h
+ID3367,RNAi-II7H02 ;feeding-drop ;24h
+ID3368,RNAi-II7H02 ;feeding-drop ;24h
+ID3369,RNAi-II7H02 ;feeding-drop ;24h
+ID7664,RNAi-IV3O14 ;feeding-drop ;24h
+ID7665,RNAi-IV3O14 ;feeding-drop ;24h
+ID7666,RNAi-IV3O14 ;feeding-drop ;24h
+ID7667,RNAi-IV3O14 ;feeding-drop ;24h
+ID7668,RNAi-IV3O14 ;feeding-drop ;24h
+ID7669,RNAi-IV3O14 ;feeding-drop ;24h
+ID7670,RNAi-IV3O14 ;feeding-drop ;24h
+ID7671,RNAi-IV3O14 ;feeding-drop ;24h
+ID4644,RNAi-III6H23 ;feeding-drop ;24h
+ID4646,RNAi-III6H23 ;feeding-drop ;24h
+ID4647,RNAi-III6H23 ;feeding-drop ;24h
+ID4648,RNAi-III6H23 ;feeding-drop ;24h
+ID2622,RNAi-III6H23 ;feeding-drop ;24h
+ID2623,RNAi-III6H23 ;feeding-drop ;24h
+ID2624,RNAi-III6H23 ;feeding-drop ;24h
+ID2625,RNAi-III6H23 ;feeding-drop ;24h
+ID2626,RNAi-III6H23 ;feeding-drop ;24h
+ID2627,RNAi-III6H23 ;feeding-drop ;24h
+ID7609,RNAi-vec06 ;feeding-drop ;24h
+ID7618,RNAi-vec06 ;feeding-drop ;24h
+ID7610,RNAi-vec06 ;feeding-drop ;24h
+ID7611,RNAi-vec06 ;feeding-drop ;24h
+ID7612,RNAi-vec06 ;feeding-drop ;24h
+ID7613,RNAi-vec06 ;feeding-drop ;24h
+ID7614,RNAi-vec06 ;feeding-drop ;24h
+ID7616,RNAi-vec06 ;feeding-drop ;24h
+ID7617,RNAi-vec06 ;feeding-drop ;24h
+ID4003,RNAi-II5J10 ;injection ;40h
+ID4005,RNAi-II5J10 ;injection ;40h
+ID4001,RNAi-II5J10 ;injection ;40h
+ID4002,RNAi-II5J10 ;injection ;40h
+ID3982,RNAi-II5J10 ;injection ;40h
+ID3981,RNAi-II5J10 ;injection ;40h
+ID4101,RNAi-II5J10 ;injection ;40h
+ID4102,RNAi-II5J10 ;injection ;40h
+ID4103,RNAi-II5J10 ;injection ;40h
+ID4104,RNAi-II5J10 ;injection ;40h
+ID5881,RNAi-II5J10 ;feeding-drop ;24h
+ID5882,RNAi-II5J10 ;feeding-drop ;24h
+ID5883,RNAi-II5J10 ;feeding-drop ;24h
+ID5884,RNAi-II5J10 ;feeding-drop ;24h
+ID5885,RNAi-II5J10 ;feeding-drop ;24h
+ID5886,RNAi-II5J10 ;feeding-drop ;24h
+ID5887,RNAi-II5J10 ;feeding-drop ;24h
+ID1008,RNAi-II5J10 ;feeding-drop ;24h
+ID1010,RNAi-II5J10 ;feeding-drop ;24h
+ID934,RNAi-II5J10 ;feeding-drop ;24h
+ID1011,RNAi-II5J10 ;feeding-drop ;24h
+ID1013,RNAi-II5J10 ;feeding-drop ;24h
+ID4806,mutant-ev571
+ID4807,mutant-ev571
+ID4808,mutant-ev571
+ID4809,mutant-ev571
+ID4810,mutant-ev571
+ID4812,mutant-ev571
+ID9170,RNAi-II5J10 ;feeding-3mM ;16h
+ID9171,RNAi-II5J10 ;feeding-3mM ;16h
+ID9172,RNAi-II5J10 ;feeding-3mM ;16h
+ID9173,RNAi-II5J10 ;feeding-3mM ;16h
+ID9174,RNAi-II5J10 ;feeding-3mM ;16h
+ID9387,RNAi-II5J10 ;feeding-3mM ;16h
+ID9382,RNAi-II5J10 ;feeding-3mM ;16h
+ID9383,RNAi-II5J10 ;feeding-3mM ;16h
+ID9384,RNAi-II5J10 ;feeding-3mM ;16h
+ID9385,RNAi-II5J10 ;feeding-3mM ;16h
+ID9386,RNAi-II5J10 ;feeding-3mM ;16h
+ID12476,RNAi-II5J10 ;feeding ;3mM_24h
+ID12477,RNAi-II5J10 ;feeding ;3mM_24h
+ID12480,RNAi-II5J10 ;feeding ;3mM_24h
+ID12481,RNAi-II5J10 ;feeding ;3mM_24h
+ID12572,RNAi-II5J10 ;feeding ;3mM_24h
+ID12573,RNAi-II5J10 ;feeding ;3mM_24h
+ID12575,RNAi-II5J10 ;feeding ;3mM_24h
+ID12577,RNAi-II5J10 ;feeding ;3mM_24h
+ID12580,RNAi-II5J10 ;feeding ;3mM_24h
+ID2417,RNAi-III1A24 ;feeding-drop ;36h
+ID2418,RNAi-III1A24 ;feeding-drop ;36h
+ID2420,RNAi-III1A24 ;feeding-drop ;36h
+ID2421,RNAi-III1A24 ;feeding-drop ;36h
+ID2422,RNAi-III1A24 ;feeding-drop ;36h
+ID2425,RNAi-III1A24 ;feeding-drop ;36h
+ID2424,RNAi-III1A24 ;feeding-drop ;36h
+ID2427,RNAi-III1A24 ;feeding-drop ;36h
+ID2428,RNAi-III1A24 ;feeding-drop ;36h
+ID2430,RNAi-III1A24 ;feeding-drop ;36h
+ID2276,RNAi-III1A12 ;feeding-drop ;24h
+ID2274,RNAi-III1A12 ;feeding-drop ;24h
+ID2275,RNAi-III1A12 ;feeding-drop ;24h
+ID2279,RNAi-III1A12 ;feeding-drop ;24h
+ID2281,RNAi-III1A12 ;feeding-drop ;24h
+ID2283,RNAi-III1A12 ;feeding-drop ;24h
+ID2285,RNAi-III1A12 ;feeding-drop ;24h
+ID2287,RNAi-III1A12 ;feeding-drop ;24h
+ID2299,RNAi-III1A12 ;feeding-drop ;24h
+ID2300,RNAi-III1A12 ;feeding-drop ;24h
+ID2301,RNAi-III1A12 ;feeding-drop ;24h
+ID2302,RNAi-III1A12 ;feeding-drop ;24h
+ID2288,RNAi-III1A24 ;feeding-drop ;24h
+ID2289,RNAi-III1A24 ;feeding-drop ;24h
+ID2290,RNAi-III1A24 ;feeding-drop ;24h
+ID2291,RNAi-III1A24 ;feeding-drop ;24h
+ID2292,RNAi-III1A24 ;feeding-drop ;24h
+ID2295,RNAi-III1A24 ;feeding-drop ;24h
+ID2296,RNAi-III1A24 ;feeding-drop ;24h
+ID2294,RNAi-III1A24 ;feeding-drop ;24h
+ID2297,RNAi-III1A24 ;feeding-drop ;24h
+ID2284,RNAi-III1A24 ;feeding-drop ;24h
+ID2282,RNAi-III1A24 ;feeding-drop ;24h
+ID2286,RNAi-III1A24 ;feeding-drop ;24h
+ID2298,RNAi-III1A24 ;feeding-drop ;24h
+ID7672,RNAi-II5G20 ;feeding-drop ;24h
+ID7673,RNAi-II5G20 ;feeding-drop ;24h
+ID7674,RNAi-II5G20 ;feeding-drop ;24h
+ID7675,RNAi-II5G20 ;feeding-drop ;24h
+ID7676,RNAi-II5G20 ;feeding-drop ;24h
+ID7677,RNAi-II5G20 ;feeding-drop ;24h
+ID7679,RNAi-II5G20 ;feeding-drop ;24h
+ID1152,RNAi-III1C04 ;feeding-drop ;24h
+ID1147,RNAi-III1C04 ;feeding-drop ;24h
+ID1148,RNAi-III1C04 ;feeding-drop ;24h
+ID1149,RNAi-III1C04 ;feeding-drop ;24h
+ID1150,RNAi-III1C04 ;feeding-drop ;24h
+ID1151,RNAi-III1C04 ;feeding-drop ;24h
+ID6524,RNAi-vec37 ;feeding-drop ;24h
+ID6525,RNAi-vec37 ;feeding-drop ;24h
+ID6526,RNAi-vec37 ;feeding-drop ;24h
+ID6528,RNAi-vec37 ;feeding-drop ;24h
+ID6527,RNAi-vec37 ;feeding-drop ;24h
+ID6529,RNAi-vec37 ;feeding-drop ;24h
+ID6530,RNAi-vec37 ;feeding-drop ;24h
+ID6532,RNAi-vec37 ;feeding-drop ;24h
+ID9193,RNAi-letF ;feeding-3mM ;24h
+ID9194,RNAi-letF ;feeding-3mM ;24h
+ID9196,RNAi-letF ;feeding-3mM ;24h
+ID9197,RNAi-letF ;feeding-3mM ;24h
+ID9199,RNAi-letF ;feeding-3mM ;24h
+ID9399,RNAi-letF ;feeding-3mM ;24h
+ID9400,RNAi-letF ;feeding-3mM ;24h
+ID9401,RNAi-letF ;feeding-3mM ;24h
+ID2608,none
+ID2607,none
+ID2606,none
+ID8234,RNAi-V8O05 ;feeding-drop ;24h
+ID8235,RNAi-V8O05 ;feeding-drop ;24h
+ID8236,RNAi-V8O05 ;feeding-drop ;24h
+ID2101,RNAi-V8O01 ;feeding-drop ;24h
+ID2102,RNAi-V8O01 ;feeding-drop ;24h
+ID1974,RNAi-IV7A05 ;feeding-drop ;24h
+ID1975,RNAi-IV7A05 ;feeding-drop ;24h
+ID1976,RNAi-IV7A05 ;feeding-drop ;24h
+ID1978,RNAi-IV7A05 ;feeding-drop ;24h
+ID1979,RNAi-IV7A05 ;feeding-drop ;24h
+ID2077,RNAi-IV7A05 ;feeding-drop ;12h
+ID2084,RNAi-IV7A05 ;feeding-drop ;12h
+ID2075,RNAi-IV7A05 ;feeding-drop ;12h
+ID2078,RNAi-IV7A05 ;feeding-drop ;12h
+ID2079,RNAi-IV7A05 ;feeding-drop ;12h
+ID2083,RNAi-IV7A05 ;feeding-drop ;12h
+ID2085,RNAi-IV7A05 ;feeding-drop ;12h
+ID2076,RNAi-IV7A05 ;feeding-drop ;12h
+ID2334,mutant-tm3737
+ID2335,mutant-tm3737
+ID2336,mutant-tm3737
+ID2337,mutant-tm3737
+ID2338,mutant-tm3737
+ID2339,mutant-tm3737
+ID2341,mutant-tm3737
+ID2343,mutant-tm3737
+ID2342,mutant-tm3737
+ID3464,mutant-tm3737
+ID3465,mutant-tm3737
+ID3466,mutant-tm3737
+ID3467,mutant-tm3737
+ID3468,mutant-tm3737
+ID3469,mutant-tm3737
+ID3470,mutant-tm3737
+ID3473,mutant-tm3737
+ID3474,mutant-tm3737
+ID3475,mutant-tm3737
+ID945,RNAi-X3C14 ;feeding-drop ;24h
+ID946,RNAi-X3C14 ;feeding-drop ;24h
+ID947,RNAi-X3C14 ;feeding-drop ;24h
+ID950,RNAi-X3C14 ;feeding-drop ;24h
+ID948,RNAi-X3C14 ;feeding-drop ;24h
+ID949,RNAi-X3C14 ;feeding-drop ;24h
+ID9101,RNAi-X-3C14 ;feeding-3mM ;24h
+ID9102,RNAi-X-3C14 ;feeding-3mM ;24h
+ID9103,RNAi-X-3C14 ;feeding-3mM ;24h
+ID9104,RNAi-X-3C14 ;feeding-3mM ;24h
+ID9105,RNAi-X-3C14 ;feeding-3mM ;24h
+ID9106,RNAi-X-3C14 ;feeding-3mM ;24h
+ID9107,RNAi-X-3C14 ;feeding-3mM ;24h
+ID9390,RNAi-X-3C14 ;feeding-3mM ;24h
+ID9392,RNAi-X-3C14 ;feeding-3mM ;24h
+ID9393,RNAi-X-3C14 ;feeding-3mM ;24h
+ID9394,RNAi-X-3C14 ;feeding-3mM ;24h
+ID9572,RNAi ;feeding-3mM ;24h
+ID9573,RNAi ;feeding-3mM ;24h
+ID9574,RNAi ;feeding-3mM ;24h
+ID9575,RNAi ;feeding-3mM ;24h
+ID9576,RNAi ;feeding-3mM ;24h
+ID9577,RNAi ;feeding-3mM ;24h
+ID9578,RNAi ;feeding-3mM ;24h
+ID5482,none[none]_ebp-2[mutant-gk756]
+ID5483,none[none]_ebp-2[mutant-gk756]
+ID5484,none[none]_ebp-2[mutant-gk756]
+ID5485,none[none]_ebp-2[mutant-gk756]
+ID5486,none[none]_ebp-2[mutant-gk756]
+ID5488,none[none]_ebp-2[mutant-gk756]
+ID5489,none[none]_ebp-2[mutant-gk756]
+ID5490,none[none]_ebp-2[mutant-gk756]
+ID7959,mutant-or207 ;;RNAi-III5C03 ;feeding-drop ;48h ;;RNAi-III5C03 ;feeding-drop ;48h
+ID7960,mutant-or207 ;;RNAi-III5C03 ;feeding-drop ;48h ;;RNAi-III5C03 ;feeding-drop ;48h
+ID7961,mutant-or207 ;;RNAi-III5C03 ;feeding-drop ;48h ;;RNAi-III5C03 ;feeding-drop ;48h
+ID7962,mutant-or207 ;;RNAi-III5C03 ;feeding-drop ;48h ;;RNAi-III5C03 ;feeding-drop ;48h
+ID7963,mutant-or207 ;;RNAi-III5C03 ;feeding-drop ;48h ;;RNAi-III5C03 ;feeding-drop ;48h
+ID7964,mutant-or207 ;;RNAi-III5C03 ;feeding-drop ;48h ;;RNAi-III5C03 ;feeding-drop ;48h
+ID7965,mutant-or207 ;;RNAi-III5C03 ;feeding-drop ;48h ;;RNAi-III5C03 ;feeding-drop ;48h
+ID7966,mutant-or207 ;;RNAi-III5C03 ;feeding-drop ;48h ;;RNAi-III5C03 ;feeding-drop ;48h
+ID7967,mutant-or207 ;;RNAi-III5C03 ;feeding-drop ;48h ;;RNAi-III5C03 ;feeding-drop ;48h
+ID2311,none
+ID2312,none
+ID2314,none
+ID2315,none
+ID2316,none
+ID2317,none
+ID2319,none
+ID1268,RNAi-II9I18 ;feeding-drop ;24h
+ID1264,RNAi-II9I18 ;feeding-drop ;24h
+ID1265,RNAi-II9I18 ;feeding-drop ;24h
+ID1266,RNAi-II9I18 ;feeding-drop ;24h
+ID1267,RNAi-II9I18 ;feeding-drop ;24h
+ID1260,RNAi-II9I18 ;feeding-drop ;24h
+ID1261,RNAi-II9I18 ;feeding-drop ;24h
+ID1263,RNAi-II9I18 ;feeding-drop ;24h
+ID4351,RNAi-II9C20 ;feeding-drop ;24h
+ID4352,RNAi-II9C20 ;feeding-drop ;24h
+ID4353,RNAi-II9C20 ;feeding-drop ;24h
+ID4354,RNAi-II9C20 ;feeding-drop ;24h
+ID4355,RNAi-II9C20 ;feeding-drop ;24h
+ID4356,RNAi-II9C20 ;feeding-drop ;24h
+ID4358,RNAi-II9C20 ;feeding-drop ;24h
+ID2515,RNAi-I6N04 ;feeding-drop ;24h
+ID2517,RNAi-I6N04 ;feeding-drop ;24h
+ID2518,RNAi-I6N04 ;feeding-drop ;24h
+ID2519,RNAi-I6N04 ;feeding-drop ;24h
+ID2520,RNAi-I6N04 ;feeding-drop ;24h
+ID2523,RNAi-I6N04 ;feeding-drop ;24h
+ID2521,RNAi-I6N04 ;feeding-drop ;24h
+ID2522,RNAi-I6N04 ;feeding-drop ;24h
+ID2524,RNAi-I6N04 ;feeding-drop ;24h
+ID2525,RNAi-I6N04 ;feeding-drop ;24h
+ID2526,RNAi-I6N04 ;feeding-drop ;24h
+ID2527,RNAi-I6N04 ;feeding-drop ;24h
+ID2528,RNAi-I6N04 ;feeding-drop ;24h
+ID6714,RNAi-vec48 ;feeding-3mM ;48h ;;mutant-gk756
+ID6715,RNAi-vec48 ;feeding-3mM ;48h ;;mutant-gk756
+ID6716,RNAi-vec48 ;feeding-3mM ;48h ;;mutant-gk756
+ID6717,RNAi-vec48 ;feeding-3mM ;48h ;;mutant-gk756
+ID6718,RNAi-vec48 ;feeding-3mM ;48h ;;mutant-gk756
+ID6719,RNAi-vec48 ;feeding-3mM ;48h ;;mutant-gk756
+ID6720,RNAi-vec48 ;feeding-3mM ;48h ;;mutant-gk756
+ID6721,RNAi-vec48 ;feeding-3mM ;48h ;;mutant-gk756
+ID8393,RNAi-vec48 ;feeding-2mM ;24h ;;mutant-gk756
+ID8394,RNAi-vec48 ;feeding-2mM ;24h ;;mutant-gk756
+ID8395,RNAi-vec48 ;feeding-2mM ;24h ;;mutant-gk756
+ID8396,RNAi-vec48 ;feeding-2mM ;24h ;;mutant-gk756
+ID8397,RNAi-vec48 ;feeding-2mM ;24h ;;mutant-gk756
+ID8398,RNAi-vec48 ;feeding-2mM ;24h ;;mutant-gk756
+ID8400,RNAi-vec48 ;feeding-2mM ;24h ;;mutant-gk756
+ID8401,RNAi-vec48 ;feeding-2mM ;24h ;;mutant-gk756
+ID8402,RNAi-vec48 ;feeding-2mM ;24h ;;mutant-gk756
+ID8403,RNAi-vec48 ;feeding-2mM ;24h ;;mutant-gk756
+ID7565,RNAi-X2K05 ;feeding-drop ;24h
+ID7566,RNAi-X2K05 ;feeding-drop ;24h
+ID7567,RNAi-X2K05 ;feeding-drop ;24h
+ID7568,RNAi-X2K05 ;feeding-drop ;24h
+ID7569,RNAi-X2K05 ;feeding-drop ;24h
+ID7571,RNAi-X2K05 ;feeding-drop ;24h
+ID7572,RNAi-X2K05 ;feeding-drop ;24h
+ID7573,RNAi-X2K05 ;feeding-drop ;24h
+ID5258,RNAi-none ;feeding-drop ;24h
+ID5259,RNAi-none ;feeding-drop ;24h
+ID5260,RNAi-none ;feeding-drop ;24h
+ID5261,RNAi-none ;feeding-drop ;24h
+ID5262,RNAi-none ;feeding-drop ;24h
+ID5263,RNAi-none ;feeding-drop ;24h
+ID5264,RNAi-none ;feeding-drop ;24h
+ID7028,RNAi-L4440 ;feeding-3mM ;24h
+ID7029,RNAi-L4440 ;feeding-3mM ;24h
+ID7030,RNAi-L4440 ;feeding-3mM ;24h
+ID7031,RNAi-L4440 ;feeding-3mM ;24h
+ID7032,RNAi-L4440 ;feeding-3mM ;24h
+ID7033,RNAi-L4440 ;feeding-3mM ;24h
+ID7034,RNAi-L4440 ;feeding-3mM ;24h
+ID7035,RNAi-L4440 ;feeding-3mM ;24h
+ID7036,RNAi-L4440 ;feeding-3mM ;24h
+ID7037,RNAi-L4440 ;feeding-3mM ;24h
+ID7038,RNAi-L4440 ;feeding-3mM ;24h
+ID1163,RNAi-none ;feeding-drop ;24h
+ID1164,RNAi-none ;feeding-drop ;24h
+ID1165,RNAi-none ;feeding-drop ;24h
+ID1166,RNAi-none ;feeding-drop ;24h
+ID1167,RNAi-none ;feeding-drop ;24h
+ID1168,RNAi-none ;feeding-drop ;24h
+ID5973,RNAi-none ;feeding-drop ;48h
+ID5974,RNAi-none ;feeding-drop ;48h
+ID5975,RNAi-none ;feeding-drop ;48h
+ID5976,RNAi-none ;feeding-drop ;48h
+ID5977,RNAi-none ;feeding-drop ;48h
+ID5979,RNAi-none ;feeding-drop ;48h
+ID5827,RNAi-none ;feeding-drop ;24h
+ID5828,RNAi-none ;feeding-drop ;24h
+ID5829,RNAi-none ;feeding-drop ;24h
+ID5830,RNAi-none ;feeding-drop ;24h
+ID5831,RNAi-none ;feeding-drop ;24h
+ID5832,RNAi-none ;feeding-drop ;24h
+ID5833,RNAi-none ;feeding-drop ;24h
+ID5834,RNAi-none ;feeding-drop ;24h
+ID5812,RNAi-none ;feeding-drop ;24h
+ID5813,RNAi-none ;feeding-drop ;24h
+ID5814,RNAi-none ;feeding-drop ;24h
+ID6939,RNAi-L4440 ;feeding-drop ;24h
+ID6937,RNAi-L4440 ;feeding-drop ;24h
+ID6938,RNAi-L4440 ;feeding-drop ;24h
+ID6940,RNAi-L4440 ;feeding-drop ;24h
+ID6941,RNAi-L4440 ;feeding-drop ;24h
+ID6942,RNAi-L4440 ;feeding-drop ;24h
+ID6943,RNAi-L4440 ;feeding-drop ;24h
+ID6059,RNAi-none ;feeding-3mM ;48h
+ID6060,RNAi-none ;feeding-3mM ;48h
+ID6061,RNAi-none ;feeding-3mM ;48h
+ID6063,RNAi-none ;feeding-3mM ;48h
+ID6064,RNAi-none ;feeding-3mM ;48h
+ID6084,RNAi-none ;feeding-3mM ;48h
+ID6092,RNAi-none ;feeding-3mM ;48h
+ID6086,RNAi-none ;feeding-3mM ;48h
+ID6087,RNAi-none ;feeding-3mM ;48h
+ID6088,RNAi-none ;feeding-3mM ;48h
+ID6089,RNAi-none ;feeding-3mM ;48h
+ID6090,RNAi-none ;feeding-3mM ;48h
+ID6093,RNAi-none ;feeding-3mM ;48h
+ID6111,RNAi-none ;feeding-3mM ;48h
+ID6113,RNAi-none ;feeding-3mM ;48h
+ID6115,RNAi-none ;feeding-3mM ;48h
+ID6117,RNAi-none ;feeding-3mM ;48h
+ID6163,RNAi-none ;feeding-3mM ;48h
+ID6164,RNAi-none ;feeding-3mM ;48h
+ID6165,RNAi-none ;feeding-3mM ;48h
+ID6166,RNAi-none ;feeding-3mM ;48h
+ID6167,RNAi-none ;feeding-3mM ;48h
+ID6168,RNAi-none ;feeding-3mM ;48h
+ID6097,RNAi-none ;feeding-3mM ;48h
+ID6098,RNAi-none ;feeding-3mM ;48h
+ID6170,RNAi-none ;feeding-3mM ;48h
+ID6171,RNAi-none ;feeding-3mM ;48h
+ID6172,RNAi-none ;feeding-3mM ;48h
+ID10694,RNAi-tub63 ;feeding-1mM ;6-10h
+ID10695,RNAi-tub63 ;feeding-1mM ;6-10h
+ID10696,RNAi-tub63 ;feeding-1mM ;6-10h
+ID10697,RNAi-tub63 ;feeding-1mM ;6-10h
+ID10698,RNAi-tub63 ;feeding-1mM ;6-10h
+ID10699,RNAi-tub63 ;feeding-1mM ;6-10h
+ID10700,RNAi-tub63 ;feeding-1mM ;6-10h
+ID10701,RNAi-tub63 ;feeding-1mM ;6-10h
+ID10769,RNAi-tub63 ;feeding-1mM ;6-10h
+ID10770,RNAi-tub63 ;feeding-1mM ;6-10h
+ID10772,RNAi-tub63 ;feeding-1mM ;6-10h
+ID10773,RNAi-tub63 ;feeding-1mM ;6-10h
+ID10774,RNAi-tub63 ;feeding-1mM ;6-10h
+ID10775,RNAi-tub63 ;feeding-1mM ;6-10h
+ID10776,RNAi-tub63 ;feeding-1mM ;6-10h
+ID10777,RNAi-tub63 ;feeding-1mM ;6-10h
+ID10778,RNAi-tub63 ;feeding-1mM ;6-10h
+ID10779,RNAi-tub63 ;feeding-1mM ;6-10h
+ID9699,RNAi-tube11 ;feeding-drop ;24h
+ID9700,RNAi-tube11 ;feeding-drop ;24h
+ID9760,RNAi-tube11 ;feeding-drop ;24h
+ID9761,RNAi-tube11 ;feeding-drop ;24h
+ID9762,RNAi-tube11 ;feeding-drop ;24h
+ID9763,RNAi-tube11 ;feeding-drop ;24h
+ID9832,RNAi-tube11 ;feeding-drop ;24h
+ID9833,RNAi-tube11 ;feeding-drop ;24h
+ID9834,RNAi-tube11 ;feeding-drop ;24h
+ID9764,RNAi-tube11 ;feeding-3mM ;48h
+ID9703,RNAi-tube11 ;feeding-3mM ;48h
+ID9704,RNAi-tube11 ;feeding-3mM ;48h
+ID9705,RNAi-tube11 ;feeding-3mM ;48h
+ID9706,RNAi-tube11 ;feeding-3mM ;48h
+ID9707,RNAi-tube11 ;feeding-3mM ;48h
+ID9708,RNAi-tube11 ;feeding-3mM ;48h
+ID9709,RNAi-tube11 ;feeding-3mM ;48h
+ID11330,RNAi-tube63 ;feeding-drop ;24h
+ID11334,RNAi-tube63 ;feeding-drop ;24h
+ID11336,RNAi-tube63 ;feeding-drop ;24h
+ID11353,RNAi-tube63 ;feeding-drop ;24h
+ID11354,RNAi-tube63 ;feeding-drop ;24h
+ID11355,RNAi-tube63 ;feeding-drop ;24h
+ID11356,RNAi-tube63 ;feeding-drop ;24h
+ID11357,RNAi-tube63 ;feeding-drop ;24h
+ID11358,RNAi-tube63 ;feeding-drop ;24h
+ID11492,RNAi-tube63 ;feeding-drop ;6h
+ID11493,RNAi-tube63 ;feeding-drop ;6h
+ID11494,RNAi-tube63 ;feeding-drop ;6h
+ID11495,RNAi-tube63 ;feeding-drop ;6h
+ID11497,RNAi-tube63 ;feeding-drop ;6h
+ID11498,RNAi-tube63 ;feeding-drop ;6h
+ID11499,RNAi-tube63 ;feeding-drop ;6h
+ID11500,RNAi-tube63 ;feeding-drop ;6h
+ID11501,RNAi-tube63 ;feeding-drop ;6h
+ID11502,RNAi-tube63 ;feeding-drop ;24h
+ID11503,RNAi-tube63 ;feeding-drop ;24h
+ID11504,RNAi-tube63 ;feeding-drop ;24h
+ID11505,RNAi-tube63 ;feeding-drop ;24h
+ID11506,RNAi-tube63 ;feeding-drop ;24h
+ID11507,RNAi-tube63 ;feeding-drop ;24h
+ID11508,RNAi-tube63 ;feeding-drop ;24h
+ID11509,RNAi-tube63 ;feeding-drop ;24h
+ID11510,RNAi-tube63 ;feeding-drop ;24h
+ID9956,RNAi-tube11 ;feeding-1mM ;6-10h
+ID9957,RNAi-tube11 ;feeding-1mM ;6-10h
+ID9959,RNAi-tube11 ;feeding-1mM ;6-10h
+ID9590,RNAi-tube11 ;feeding-3mM ;24h
+ID9591,RNAi-tube11 ;feeding-3mM ;24h
+ID9592,RNAi-tube11 ;feeding-3mM ;24h
+ID9593,RNAi-tube11 ;feeding-3mM ;24h
+ID9594,RNAi-tube11 ;feeding-3mM ;24h
+ID12169,RNAi ;feeding-1mM ;6h
+ID12172,RNAi-tube-63 ;feeding-4mM ;24h
+ID12173,RNAi-tube-63 ;feeding-4mM ;24h
+ID12174,RNAi-tube-63 ;feeding-4mM ;24h
+ID12235,RNAi-tube-63 ;feeding-4mM ;24h
+ID12236,RNAi-tube-63 ;feeding-4mM ;24h
+ID12237,RNAi-tube-63 ;feeding-4mM ;24h
+ID12166,RNAi ;feeding-1mM ;6h
+ID12167,RNAi ;feeding-1mM ;6h
+ID12168,RNAi ;feeding-1mM ;6h
+ID12229,RNAi ;feeding-1mM ;6h
+ID12230,RNAi ;feeding-1mM ;6h
+ID12231,RNAi ;feeding-1mM ;6h
+ID12232,RNAi ;feeding-1mM ;6h
+ID12233,RNAi ;feeding-1mM ;6h
+ID12234,RNAi ;feeding-1mM ;6h
+ID12451,RNAi ;feeding-1mM ;6h
+ID12452,RNAi ;feeding-1mM ;6h
+ID12453,RNAi ;feeding-1mM ;6h
+ID12455,RNAi ;feeding-1mM ;6h
+ID12243,RNAi ;feeding-1mM ;48h
+ID12282,RNAi ;feeding-1mM ;48h
+ID12285,RNAi ;feeding-1mM ;48h
+ID12286,RNAi ;feeding-1mM ;48h
+ID12546,RNAi ;feeding-1mM ;24h
+ID12547,RNAi ;feeding-1mM ;24h
+ID12548,RNAi ;feeding-1mM ;24h
+ID12551,RNAi ;feeding-1mM ;24h
+ID12552,RNAi ;feeding-1mM ;24h
+ID12626,RNAi ;feeding-1mM ;24h
+ID12628,RNAi ;feeding-1mM ;24h
+ID12630,RNAi ;feeding-1mM ;24h
+ID12633,RNAi ;feeding-1mM ;24h
+ID12634,RNAi ;feeding-1mM ;24h
+ID12637,RNAi ;feeding-1mM ;24h
+ID12063,RNAi-tube63 ;feeding ;4mM_48h
+ID12074,RNAi-tube63 ;feeding ;4mM_48h
+ID12075,RNAi-tube63 ;feeding ;4mM_48h
+ID12076,RNAi-tube63 ;feeding ;4mM_48h
+ID12077,RNAi-tube63 ;feeding ;4mM_48h
+ID12103,RNAi-tube63 ;feeding ;4mM_48h
+ID12104,RNAi-tube63 ;feeding ;4mM_48h
+ID12105,RNAi-tube63 ;feeding ;4mM_48h
+ID12106,RNAi-tube63 ;feeding ;4mM_48h
+ID12107,RNAi-tube63 ;feeding ;4mM_48h
+ID4649,RNAi-I4F17 ;feeding-drop ;24h
+ID4650,RNAi-I4F17 ;feeding-drop ;24h
+ID4651,RNAi-I4F17 ;feeding-drop ;24h
+ID4653,RNAi-I4F17 ;feeding-drop ;24h
+ID4654,RNAi-I4F17 ;feeding-drop ;24h
+ID4655,RNAi-I4F17 ;feeding-drop ;24h
+ID4656,RNAi-I4F17 ;feeding-drop ;24h
+ID6923,RNAi-I3J11 ;feeding-drop ;24h
+ID6924,RNAi-I3J11 ;feeding-drop ;24h
+ID6926,RNAi-I3J11 ;feeding-drop ;24h
+ID6928,RNAi-I3J11 ;feeding-drop ;24h
+ID6930,RNAi-I3J11 ;feeding-drop ;24h
+ID6931,RNAi-I3J11 ;feeding-drop ;24h
+ID6932,RNAi-I3J11 ;feeding-drop ;24h
+ID6933,RNAi-I3J11 ;feeding-drop ;24h
+ID6935,RNAi-I3J11 ;feeding-drop ;24h
+ID6922,RNAi-I3J11 ;feeding-drop ;24h
+ID7009,RNAi-I3J11 ;feeding-3mM ;24h
+ID7010,RNAi-I3J11 ;feeding-3mM ;24h
+ID7011,RNAi-I3J11 ;feeding-3mM ;24h
+ID7012,RNAi-I3J11 ;feeding-3mM ;24h
+ID7013,RNAi-I3J11 ;feeding-3mM ;24h
+ID7014,RNAi-I3J11 ;feeding-3mM ;24h
+ID7015,RNAi-I3J11 ;feeding-3mM ;24h
+ID7016,RNAi-I3J11 ;feeding-3mM ;24h
+ID7017,RNAi-I3J11 ;feeding-3mM ;24h
+ID7018,RNAi-I3J11 ;feeding-3mM ;24h
+ID7019,RNAi-I3J11 ;feeding-3mM ;24h
+ID5816,RNAi-I3J11 ;feeding-drop ;24h
+ID5817,RNAi-I3J11 ;feeding-drop ;24h
+ID5815,RNAi-I3J11 ;feeding-drop ;24h
+ID5818,RNAi-I3J11 ;feeding-drop ;24h
+ID5819,RNAi-I3J11 ;feeding-drop ;24h
+ID7225,RNAi-I3J11 ;feeding-3mM ;48h
+ID7226,RNAi-I3J11 ;feeding-3mM ;48h
+ID7227,RNAi-I3J11 ;feeding-3mM ;48h
+ID7228,RNAi-I3J11 ;feeding-3mM ;48h
+ID7229,RNAi-I3J11 ;feeding-3mM ;48h
+ID7230,RNAi-I3J11 ;feeding-3mM ;48h
+ID7231,RNAi-I3J11 ;feeding-3mM ;48h
+ID7232,RNAi-I3J11 ;feeding-3mM ;48h
+ID7233,RNAi-I3J11 ;feeding-3mM ;48h
+ID7234,RNAi-I3J11 ;feeding-3mM ;48h
+ID7251,RNAi-I3J11 ;feeding-3mM ;48h
+ID7252,RNAi-I3J11 ;feeding-3mM ;48h
+ID3972,mutant-ok2126
+ID3973,mutant-ok2126
+ID3974,mutant-ok2126
+ID3975,mutant-ok2126
+ID3976,mutant-ok2126
+ID3977,mutant-ok2126
+ID3978,mutant-ok2126
+ID2468,mutant-ok2126
+ID2469,mutant-ok2126
+ID2470,mutant-ok2126
+ID2461,mutant-ok2126
+ID2462,mutant-ok2126
+ID2463,mutant-ok2126
+ID2465,mutant-ok2126
+ID2466,mutant-ok2126
+ID4531,RNAi-III4E08 ;feeding-drop ;16h
+ID4532,RNAi-III4E08 ;feeding-drop ;16h
+ID4530,RNAi-III4C10 ;feeding-drop ;16h
+ID11455,RNAi-III4C10 ;feeding-drop ;6h
+ID11456,RNAi-III4C10 ;feeding-drop ;6h
+ID11457,RNAi-III4C10 ;feeding-drop ;6h
+ID11458,RNAi-III4C10 ;feeding-drop ;6h
+ID11459,RNAi-III4C10 ;feeding-drop ;6h
+ID11462,RNAi-III4C10 ;feeding-drop ;6h
+ID11463,RNAi-III4C10 ;feeding-drop ;6h
+ID11485,RNAi-III4C10 ;feeding-drop ;6h
+ID11488,RNAi-III4C10 ;feeding-drop ;6h
+ID11490,RNAi-III4C10 ;feeding-drop ;6h
+ID12301,none
+ID12302,none
+ID12303,none
+ID12304,none
+ID12305,none
+ID12308,none
+ID4006,mutant-ok1179
+ID4007,mutant-ok1179
+ID4008,mutant-ok1179
+ID4009,mutant-ok1179
+ID4010,mutant-ok1179
+ID4012,mutant-ok1179
+ID5366,mutant-ok1179
+ID5367,mutant-ok1179
+ID5368,mutant-ok1179
+ID5370,mutant-ok1179
+ID5371,mutant-ok1179
+ID5372,mutant-ok1179
+ID3355,mutant-tm964
+ID3356,mutant-tm964
+ID3357,mutant-tm964
+ID3358,mutant-tm964
+ID3359,mutant-tm964
+ID3360,mutant-tm964
+ID3361,mutant-tm964
+ID3362,mutant-tm964
+ID3363,mutant-tm964
+ID12347,mutant-tm964
+ID12349,mutant-tm964
+ID12363,mutant-tm964
+ID12350,mutant-tm964
+ID12351,mutant-tm964
+ID12352,mutant-tm964
+ID6414,RNAi-ebp-B ;feeding-2mM ;24h ;;mutant-gk756
+ID6416,RNAi-ebp-B ;feeding-2mM ;24h ;;mutant-gk756
+ID6417,RNAi-ebp-B ;feeding-2mM ;24h ;;mutant-gk756
+ID6418,RNAi-ebp-B ;feeding-2mM ;24h ;;mutant-gk756
+ID8416,RNAi-ebp-A ;feeding-2mM ;24h ;;mutant-gk756
+ID8417,RNAi-ebp-A ;feeding-2mM ;24h ;;mutant-gk756
+ID8418,RNAi-ebp-A ;feeding-2mM ;24h ;;mutant-gk756
+ID8419,RNAi-ebp-A ;feeding-2mM ;24h ;;mutant-gk756
+ID8420,RNAi-ebp-A ;feeding-2mM ;24h ;;mutant-gk756
+ID8421,RNAi-ebp-A ;feeding-2mM ;24h ;;mutant-gk756
+ID8422,RNAi-ebp-A ;feeding-2mM ;24h ;;mutant-gk756
+ID8423,RNAi-ebp-A ;feeding-2mM ;24h ;;mutant-gk756
+ID8424,RNAi-ebp-A ;feeding-2mM ;24h ;;mutant-gk756
+ID8619,RNAi-ebp-B ;feeding-3mM ;48h ;;mutant-gk756
+ID8620,RNAi-ebp-B ;feeding-3mM ;48h ;;mutant-gk756
+ID8621,RNAi-ebp-B ;feeding-3mM ;48h ;;mutant-gk756
+ID8623,RNAi-ebp-B ;feeding-3mM ;48h ;;mutant-gk756
+ID8625,RNAi-ebp-B ;feeding-3mM ;48h ;;mutant-gk756
+ID8626,RNAi-ebp-B ;feeding-3mM ;48h ;;mutant-gk756
+ID8627,RNAi-ebp-B ;feeding-3mM ;48h ;;mutant-gk756
+ID8628,RNAi-ebp-B ;feeding-3mM ;48h ;;mutant-gk756
+ID8630,RNAi-ebp-B ;feeding-3mM ;48h ;;mutant-gk756
+ID8485,RNAi-ebp-A ;feeding-3mM ;48h ;;mutant-gk756
+ID8486,RNAi-ebp-A ;feeding-3mM ;48h ;;mutant-gk756
+ID8487,RNAi-ebp-A ;feeding-3mM ;48h ;;mutant-gk756
+ID8488,RNAi-ebp-A ;feeding-3mM ;48h ;;mutant-gk756
+ID8489,RNAi-ebp-A ;feeding-3mM ;48h ;;mutant-gk756
+ID8490,RNAi-ebp-A ;feeding-3mM ;48h ;;mutant-gk756
+ID8491,RNAi-ebp-A ;feeding-3mM ;48h ;;mutant-gk756
+ID8492,RNAi-ebp-A ;feeding-3mM ;48h ;;mutant-gk756
+ID8493,RNAi-ebp-A ;feeding-3mM ;48h ;;mutant-gk756
+ID8494,RNAi-ebp-A ;feeding-3mM ;48h ;;mutant-gk756
+ID8495,RNAi-ebp-A ;feeding-3mM ;48h ;;mutant-gk756
+ID8496,RNAi-ebp-A ;feeding-3mM ;48h ;;mutant-gk756
+ID6722,RNAi-ebp-D ;feeding-3mM ;48h ;;mutant-gk756 ;;RNAi-ebp-D ;feeding-3mM ;48h
+ID6723,RNAi-ebp-D ;feeding-3mM ;48h ;;mutant-gk756 ;;RNAi-ebp-D ;feeding-3mM ;48h
+ID6724,RNAi-ebp-D ;feeding-3mM ;48h ;;mutant-gk756 ;;RNAi-ebp-D ;feeding-3mM ;48h
+ID6725,RNAi-ebp-D ;feeding-3mM ;48h ;;mutant-gk756 ;;RNAi-ebp-D ;feeding-3mM ;48h
+ID6726,RNAi-ebp-D ;feeding-3mM ;48h ;;mutant-gk756 ;;RNAi-ebp-D ;feeding-3mM ;48h
+ID6727,RNAi-ebp-D ;feeding-3mM ;48h ;;mutant-gk756 ;;RNAi-ebp-D ;feeding-3mM ;48h
+ID6729,RNAi-ebp-D ;feeding-3mM ;48h ;;mutant-gk756 ;;RNAi-ebp-D ;feeding-3mM ;48h
+ID6730,RNAi-ebp-D ;feeding-3mM ;48h ;;mutant-gk756 ;;RNAi-ebp-D ;feeding-3mM ;48h
+ID6731,RNAi-ebp-D ;feeding-3mM ;48h ;;mutant-gk756 ;;RNAi-ebp-D ;feeding-3mM ;48h
+ID6302,RNAi-ebp-D ;feeding-2mM ;24h ;;mutant-gk756 ;;RNAi-ebp-D ;feeding-2mM ;24h
+ID6303,RNAi-ebp-D ;feeding-2mM ;24h ;;mutant-gk756 ;;RNAi-ebp-D ;feeding-2mM ;24h
+ID6304,RNAi-ebp-D ;feeding-2mM ;24h ;;mutant-gk756 ;;RNAi-ebp-D ;feeding-2mM ;24h
+ID6305,RNAi-ebp-D ;feeding-2mM ;24h ;;mutant-gk756 ;;RNAi-ebp-D ;feeding-2mM ;24h
+ID6307,RNAi-ebp-D ;feeding-2mM ;24h ;;mutant-gk756 ;;RNAi-ebp-D ;feeding-2mM ;24h
+ID6308,RNAi-ebp-D ;feeding-2mM ;24h ;;mutant-gk756 ;;RNAi-ebp-D ;feeding-2mM ;24h
+ID6309,RNAi-ebp-D ;feeding-2mM ;24h ;;mutant-gk756 ;;RNAi-ebp-D ;feeding-2mM ;24h
+ID6310,RNAi-ebp-D ;feeding-2mM ;24h ;;mutant-gk756 ;;RNAi-ebp-D ;feeding-2mM ;24h
+ID6306,RNAi-ebp-D ;feeding-2mM ;24h ;;mutant-gk756 ;;RNAi-ebp-D ;feeding-2mM ;24h
+ID6197,RNAi-ebp-A ;feeding-2mM ;24h
+ID6198,RNAi-ebp-A ;feeding-2mM ;24h
+ID6199,RNAi-ebp-A ;feeding-2mM ;24h
+ID6200,RNAi-ebp-A ;feeding-2mM ;24h
+ID6201,RNAi-ebp-A ;feeding-2mM ;24h
+ID6202,RNAi-ebp-A ;feeding-2mM ;24h
+ID6203,RNAi-ebp-A ;feeding-2mM ;24h
+ID8469,RNAi-ebp-A ;feeding-3mM ;48h
+ID8470,RNAi-ebp-A ;feeding-3mM ;48h
+ID8471,RNAi-ebp-A ;feeding-3mM ;48h
+ID8472,RNAi-ebp-A ;feeding-3mM ;48h
+ID8473,RNAi-ebp-A ;feeding-3mM ;48h
+ID8474,RNAi-ebp-A ;feeding-3mM ;48h
+ID8476,RNAi-ebp-A ;feeding-3mM ;48h
+ID8477,RNAi-ebp-A ;feeding-3mM ;48h
+ID8478,RNAi-ebp-A ;feeding-3mM ;48h
+ID8479,RNAi-ebp-A ;feeding-3mM ;48h
+ID8480,RNAi-ebp-A ;feeding-3mM ;48h
+ID8405,RNAi-ebp-B ;feeding-2mM ;24h
+ID8406,RNAi-ebp-B ;feeding-2mM ;24h
+ID8408,RNAi-ebp-B ;feeding-2mM ;24h
+ID8409,RNAi-ebp-B ;feeding-2mM ;24h
+ID8411,RNAi-ebp-B ;feeding-2mM ;24h
+ID8410,RNAi-ebp-B ;feeding-2mM ;24h
+ID8412,RNAi-ebp-B ;feeding-2mM ;24h
+ID8414,RNAi-ebp-B ;feeding-2mM ;24h
+ID8413,RNAi-ebp-B ;feeding-2mM ;24h
+ID8601,RNAi-ebp-B ;feeding-3mM ;48h
+ID8602,RNAi-ebp-B ;feeding-3mM ;48h
+ID8604,RNAi-ebp-B ;feeding-3mM ;48h
+ID8605,RNAi-ebp-B ;feeding-3mM ;48h
+ID8606,RNAi-ebp-B ;feeding-3mM ;48h
+ID8607,RNAi-ebp-B ;feeding-3mM ;48h
+ID8608,RNAi-ebp-B ;feeding-3mM ;48h
+ID8609,RNAi-ebp-B ;feeding-3mM ;48h
+ID8610,RNAi-ebp-B ;feeding-3mM ;48h
+ID8611,RNAi-ebp-B ;feeding-3mM ;48h
+ID4043,RNAi-II7F10 ;feeding-drop ;18h
+ID4037,RNAi-II7F10 ;feeding-drop ;18h
+ID4036,RNAi-II7F10 ;feeding-drop ;18h
+ID4034,RNAi-II7F10 ;feeding-drop ;18h
+ID1813,RNAi-II7F10 ;feeding-drop ;24h
+ID1814,RNAi-II7F10 ;feeding-drop ;24h
+ID1815,RNAi-II7F10 ;feeding-drop ;24h
+ID1816,RNAi-II7F10 ;feeding-drop ;24h
+ID1817,RNAi-II7F10 ;feeding-drop ;24h
+ID1818,RNAi-II7F10 ;feeding-drop ;24h
+ID6701,RNAi-II7F10 ;feeding-3mM ;48h
+ID6703,RNAi-II7F10 ;feeding-3mM ;48h
+ID6704,RNAi-II7F10 ;feeding-3mM ;48h
+ID6707,RNAi-II7F10 ;feeding-3mM ;48h
+ID6708,RNAi-II7F10 ;feeding-3mM ;48h
+ID6709,RNAi-II7F10 ;feeding-3mM ;48h
+ID6710,RNAi-II7F10 ;feeding-3mM ;48h
+ID6711,RNAi-II7F10 ;feeding-3mM ;48h
+ID3788,RNAi-IV4O14 ;feeding-drop ;24h
+ID3789,RNAi-IV4O14 ;feeding-drop ;24h
+ID3790,RNAi-IV4O14 ;feeding-drop ;24h
+ID3791,RNAi-IV4O14 ;feeding-drop ;24h
+ID3792,RNAi-IV4O14 ;feeding-drop ;24h
+ID3916,RNAi-IV4O14 ;feeding-drop ;24h
+ID3917,RNAi-IV4O14 ;feeding-drop ;24h
+ID3918,RNAi-IV4O14 ;feeding-drop ;24h
+ID2612,RNAi-I2F15 ;feeding-drop ;24h
+ID2613,RNAi-I2F15 ;feeding-drop ;24h
+ID2614,RNAi-I2F15 ;feeding-drop ;24h
+ID2616,RNAi-I2F15 ;feeding-drop ;24h
+ID2617,RNAi-I2F15 ;feeding-drop ;24h
+ID2618,RNAi-I2F15 ;feeding-drop ;24h
+ID2619,RNAi-I2F15 ;feeding-drop ;24h
+ID2615,RNAi-I2F15 ;feeding-drop ;24h
+ID2620,RNAi-I2F15 ;feeding-drop ;24h
+ID6001,RNAi-I4P13 ;feeding-drop ;24h
+ID6002,RNAi-I4P13 ;feeding-drop ;24h
+ID6003,RNAi-I4P13 ;feeding-drop ;24h
+ID6004,RNAi-I4P13 ;feeding-drop ;24h
+ID6006,RNAi-I4P13 ;feeding-drop ;24h
+ID6007,RNAi-I4P13 ;feeding-drop ;24h
+ID6008,RNAi-I4P13 ;feeding-drop ;24h
+ID6009,RNAi-I4P13 ;feeding-drop ;24h
+ID2051,RNAi-I4P13 ;feeding-drop ;24h
+ID2087,RNAi-I4P13 ;feeding-drop ;24h
+ID2088,RNAi-I4P13 ;feeding-drop ;24h
+ID2090,RNAi-I4P13 ;feeding-drop ;24h
+ID2091,RNAi-I4P13 ;feeding-drop ;24h
+ID2092,RNAi-I4P13 ;feeding-drop ;24h
+ID2089,RNAi-I4P13 ;feeding-drop ;24h
+ID9892,RNAi ;feeding-3mM ;48h
+ID9893,RNAi ;feeding-3mM ;48h
+ID9894,RNAi ;feeding-3mM ;48h
+ID9895,RNAi ;feeding-3mM ;48h
+ID9896,RNAi ;feeding-3mM ;48h
+ID9897,RNAi ;feeding-3mM ;48h
+ID9898,RNAi ;feeding-3mM ;48h
+ID9899,RNAi ;feeding-3mM ;48h
+ID9900,RNAi ;feeding-3mM ;48h
+ID3352,RNAi-III2J07 ;feeding-drop ;24h
+ID3354,RNAi-III2J07 ;feeding-drop ;24h
+ID3415,RNAi-III2J07 ;feeding-drop ;24h
+ID3416,RNAi-III2J07 ;feeding-drop ;24h
+ID3417,RNAi-III2J07 ;feeding-drop ;24h
+ID3418,RNAi-III2J07 ;feeding-drop ;24h
+ID3178,RNAi-IV3I07 ;feeding-drop ;24h
+ID3179,RNAi-IV3I07 ;feeding-drop ;24h
+ID3180,RNAi-IV3I07 ;feeding-drop ;24h
+ID3181,RNAi-IV3I07 ;feeding-drop ;24h
+ID3182,RNAi-IV3I07 ;feeding-drop ;24h
+ID3183,RNAi-IV3I07 ;feeding-drop ;24h
+ID3184,RNAi-IV3I07 ;feeding-drop ;24h
+ID1021,RNAi-II6M11 ;feeding-drop ;24h
+ID1022,RNAi-II6M11 ;feeding-drop ;24h
+ID1025,RNAi-II6M11 ;feeding-drop ;24h
+ID9989,RNAi-II-6M11 ;feeding-3mM ;4h
+ID9991,RNAi-II-6M11 ;feeding-3mM ;4h
+ID9992,RNAi-II-6M11 ;feeding-3mM ;4h
+ID9993,RNAi-II-6M11 ;feeding-3mM ;4h
+ID9994,RNAi-II-6M11 ;feeding-3mM ;4h
+ID10010,RNAi-II-6M11 ;feeding-3mM ;4h
+ID10011,RNAi-II-6M11 ;feeding-3mM ;4h
+ID10012,RNAi-II-6M11 ;feeding-3mM ;4h
+ID10013,RNAi-II-6M11 ;feeding-3mM ;4h
+ID10014,RNAi-II-6M11 ;feeding-3mM ;4h
+ID10015,RNAi-II-6M11 ;feeding-3mM ;4h
+ID5351,RNAi-II4A13 ;feeding-drop ;48h
+ID5352,RNAi-II4A13 ;feeding-drop ;48h
+ID5354,RNAi-II4A13 ;feeding-drop ;48h
+ID5355,RNAi-II4A13 ;feeding-drop ;48h
+ID5356,RNAi-II4A13 ;feeding-drop ;48h
+ID5357,RNAi-II4A13 ;feeding-drop ;48h
+ID3002,mutant-h1960 ;;mutant-gk2
+ID3003,mutant-h1960 ;;mutant-gk2
+ID3004,mutant-h1960 ;;mutant-gk2
+ID3005,mutant-h1960 ;;mutant-gk2
+ID3006,mutant-h1960 ;;mutant-gk2
+ID3008,mutant-h1960 ;;mutant-gk2
+ID3016,mutant-h1960 ;;mutant-gk2
+ID3185,mutant-h1960 ;;mutant-gk2
+ID3186,mutant-h1960 ;;mutant-gk2
+ID3187,mutant-h1960 ;;mutant-gk2
+ID3188,mutant-h1960 ;;mutant-gk2
+ID3191,mutant-h1960 ;;mutant-gk2
+ID3190,mutant-h1960 ;;mutant-gk2
+ID3192,mutant-h1960 ;;mutant-gk2
+ID3193,mutant-h1960 ;;mutant-gk2
+ID3194,mutant-h1960 ;;mutant-gk2
+ID3195,mutant-h1960 ;;mutant-gk2
+ID3201,mutant-h1960 ;;mutant-gk2
+ID3202,mutant-h1960 ;;mutant-gk2
+ID3203,mutant-h1960 ;;mutant-gk2
+ID3204,mutant-h1960 ;;mutant-gk2
+ID3205,mutant-h1960 ;;mutant-gk2
+ID2611,none
+ID3009,none
+ID3010,none
+ID3011,none
+ID3012,none
+ID3013,none
+ID3015,none
+ID3168,none
+ID3169,none
+ID3170,none
+ID3171,none
+ID3172,none
+ID3173,none
+ID3174,none
+ID3175,none
+ID3176,none
+ID3177,none
+ID3197,none
+ID3198,none
+ID3199,none
+ID3200,none
+ID1959,RNAi-vec11 ;feeding-drop ;24h
+ID1960,RNAi-vec11 ;feeding-drop ;24h
+ID1961,RNAi-vec11 ;feeding-drop ;24h
+ID1962,RNAi-vec11 ;feeding-drop ;24h
+ID1963,RNAi-vec11 ;feeding-drop ;24h
+ID1964,RNAi-vec11 ;feeding-drop ;24h
+ID1966,RNAi-vec11 ;feeding-drop ;24h
+ID1965,RNAi-vec11 ;feeding-drop ;24h
+ID4272,RNAi-I7L01 ;feeding-drop ;24h
+ID4273,RNAi-I7L01 ;feeding-drop ;24h
+ID4274,RNAi-I7L01 ;feeding-drop ;24h
+ID4269,RNAi-I7J23 ;feeding-drop ;24h
+ID4270,RNAi-I7J23 ;feeding-drop ;24h
+ID4276,RNAi-I7J23 ;feeding-drop ;24h
+ID4277,RNAi-I7J23 ;feeding-drop ;24h
+ID11429,RNAi-I7L01 ;feeding-drop ;24h
+ID11430,RNAi-I7L01 ;feeding-drop ;24h
+ID11431,RNAi-I7L01 ;feeding-drop ;24h
+ID11432,RNAi-I7L01 ;feeding-drop ;24h
+ID11433,RNAi-I7L01 ;feeding-drop ;24h
+ID11434,RNAi-I7L01 ;feeding-drop ;24h
+ID11435,RNAi-I7L01 ;feeding-drop ;24h
+ID11436,RNAi-I7L01 ;feeding-drop ;24h
+ID11437,RNAi-I7L01 ;feeding-drop ;24h
+ID11438,RNAi-I7L01 ;feeding-drop ;24h
+ID11439,RNAi-I7L01 ;feeding-drop ;24h
+ID11440,RNAi-I7L01 ;feeding-drop ;24h
+ID6788,none
+ID6789,none
+ID6791,none
+ID6792,none
+ID6793,none
+ID6796,none
+ID6797,none
+ID2471,RNAi-vec9 ;feeding-drop ;24h
+ID2472,RNAi-vec9 ;feeding-drop ;24h
+ID2474,RNAi-vec9 ;feeding-drop ;24h
+ID2475,RNAi-vec9 ;feeding-drop ;24h
+ID2476,RNAi-vec9 ;feeding-drop ;24h
+ID2477,RNAi-vec9 ;feeding-drop ;24h
+ID2478,RNAi-vec9 ;feeding-drop ;24h
+ID2479,RNAi-vec9 ;feeding-drop ;24h
+ID2480,RNAi-vec9 ;feeding-drop ;24h
+ID2481,RNAi-vec9 ;feeding-drop ;24h
+ID2482,RNAi-vec9 ;feeding-drop ;24h
+ID7110,mutant-gk470
+ID7111,mutant-gk470
+ID7112,mutant-gk470
+ID7113,mutant-gk470
+ID7114,mutant-gk470
+ID7115,mutant-gk470
+ID7116,mutant-gk470
+ID7117,mutant-gk470
+ID7118,mutant-gk470
+ID7079,mutant-h1960 ;;RNAi-I3J11 ;feeding-3mM ;24h
+ID7080,mutant-h1960 ;;RNAi-I3J11 ;feeding-3mM ;24h
+ID7081,mutant-h1960 ;;RNAi-I3J11 ;feeding-3mM ;24h
+ID7082,mutant-h1960 ;;RNAi-I3J11 ;feeding-3mM ;24h
+ID7083,mutant-h1960 ;;RNAi-I3J11 ;feeding-3mM ;24h
+ID7084,mutant-h1960 ;;RNAi-I3J11 ;feeding-3mM ;24h
+ID7085,mutant-h1960 ;;RNAi-I3J11 ;feeding-3mM ;24h
+ID7086,mutant-h1960 ;;RNAi-I3J11 ;feeding-3mM ;24h
+ID7087,mutant-h1960 ;;RNAi-I3J11 ;feeding-3mM ;24h
+ID7088,mutant-h1960 ;;RNAi-I3J11 ;feeding-3mM ;96h
+ID7089,mutant-h1960 ;;RNAi-I3J11 ;feeding-3mM ;96h
+ID7277,mutant-h1960 ;;RNAi-I3J11 ;feeding-3mM ;48h
+ID7278,mutant-h1960 ;;RNAi-I3J11 ;feeding-3mM ;48h
+ID7279,mutant-h1960 ;;RNAi-I3J11 ;feeding-3mM ;48h
+ID7280,mutant-h1960 ;;RNAi-I3J11 ;feeding-3mM ;48h
+ID7281,mutant-h1960 ;;RNAi-I3J11 ;feeding-3mM ;48h
+ID7282,mutant-h1960 ;;RNAi-I3J11 ;feeding-3mM ;48h
+ID7283,mutant-h1960 ;;RNAi-I3J11 ;feeding-3mM ;48h
+ID7284,mutant-h1960 ;;RNAi-I3J11 ;feeding-3mM ;48h
+ID7285,mutant-h1960 ;;RNAi-I3J11 ;feeding-3mM ;48h
+ID7276,mutant-h1960 ;;RNAi-I3J11 ;feeding-3mM ;48h
+ID8101,mutant-or207 ;;RNAi-L4440 ;feeding-drop ;48h
+ID8102,mutant-or207 ;;RNAi-L4440 ;feeding-drop ;48h
+ID8103,mutant-or207 ;;RNAi-L4440 ;feeding-drop ;48h
+ID8104,mutant-or207 ;;RNAi-L4440 ;feeding-drop ;48h
+ID8105,mutant-or207 ;;RNAi-L4440 ;feeding-drop ;48h
+ID8106,mutant-or207 ;;RNAi-L4440 ;feeding-drop ;48h
+ID2558,RNAi-III4J09 ;feeding-drop ;24h ;;RNAi-III4J09 ;feeding-drop ;24h
+ID2559,RNAi-III4J09 ;feeding-drop ;24h ;;RNAi-III4J09 ;feeding-drop ;24h
+ID2560,RNAi-III4J09 ;feeding-drop ;24h ;;RNAi-III4J09 ;feeding-drop ;24h
+ID2561,RNAi-III4J09 ;feeding-drop ;24h ;;RNAi-III4J09 ;feeding-drop ;24h
+ID2562,RNAi-III4J09 ;feeding-drop ;24h ;;RNAi-III4J09 ;feeding-drop ;24h
+ID2563,RNAi-III4J09 ;feeding-drop ;24h ;;RNAi-III4J09 ;feeding-drop ;24h
+ID2564,RNAi-III4J09 ;feeding-drop ;24h ;;RNAi-III4J09 ;feeding-drop ;24h
+ID2565,RNAi-III4J09 ;feeding-drop ;24h ;;RNAi-III4J09 ;feeding-drop ;24h
+ID12464,RNAi-III4J09 ;feeding-1mM ;4-6h ;;RNAi-III4J09 ;feeding-1mM ;4-6h
+ID12466,RNAi-III4J09 ;feeding-1mM ;4-6h ;;RNAi-III4J09 ;feeding-1mM ;4-6h
+ID12467,RNAi-III4J09 ;feeding-1mM ;4-6h ;;RNAi-III4J09 ;feeding-1mM ;4-6h
+ID12468,RNAi-III4J09 ;feeding-1mM ;4-6h ;;RNAi-III4J09 ;feeding-1mM ;4-6h
+ID12469,RNAi-III4J09 ;feeding-1mM ;4-6h ;;RNAi-III4J09 ;feeding-1mM ;4-6h
+ID12470,RNAi-III4J09 ;feeding-1mM ;4-6h ;;RNAi-III4J09 ;feeding-1mM ;4-6h
+ID12471,RNAi-III4J09 ;feeding-1mM ;4-6h ;;RNAi-III4J09 ;feeding-1mM ;4-6h
+ID12482,RNAi-III4J09 ;feeding-1mM ;4-6h ;;RNAi-III4J09 ;feeding-1mM ;4-6h
+ID12483,RNAi-III4J09 ;feeding-1mM ;4-6h ;;RNAi-III4J09 ;feeding-1mM ;4-6h
+ID12484,RNAi-III4J09 ;feeding-1mM ;4-6h ;;RNAi-III4J09 ;feeding-1mM ;4-6h
+ID12485,RNAi-III4J09 ;feeding-1mM ;4-6h ;;RNAi-III4J09 ;feeding-1mM ;4-6h
+ID12487,RNAi-III4J09 ;feeding-1mM ;4-6h ;;RNAi-III4J09 ;feeding-1mM ;4-6h
+ID12488,RNAi-III4J09 ;feeding-1mM ;4-6h ;;RNAi-III4J09 ;feeding-1mM ;4-6h
+ID12490,RNAi-III4J09 ;feeding-1mM ;4-6h ;;RNAi-III4J09 ;feeding-1mM ;4-6h
+ID12491,RNAi-III4J09 ;feeding-1mM ;4-6h ;;RNAi-III4J09 ;feeding-1mM ;4-6h
+ID12080,RNAi-III4J09 ;feeding ;4mM_48h ;;RNAi-III4J09 ;feeding ;4mM_48h
+ID12084,RNAi-III4J09 ;feeding ;4mM_48h ;;RNAi-III4J09 ;feeding ;4mM_48h
+ID12085,RNAi-III4J09 ;feeding ;4mM_48h ;;RNAi-III4J09 ;feeding ;4mM_48h
+ID12110,RNAi-III4J09 ;feeding ;4mM_48h ;;RNAi-III4J09 ;feeding ;4mM_48h
+ID12112,RNAi-III4J09 ;feeding ;4mM_48h ;;RNAi-III4J09 ;feeding ;4mM_48h
+ID12113,RNAi-III4J09 ;feeding ;4mM_48h ;;RNAi-III4J09 ;feeding ;4mM_48h
+ID12114,RNAi-III4J09 ;feeding ;4mM_48h ;;RNAi-III4J09 ;feeding ;4mM_48h
+ID4115,RNAi-V5J24 ;feeding-drop ;16h
+ID4116,RNAi-V5J24 ;feeding-drop ;16h
+ID4117,RNAi-V5J24 ;feeding-drop ;16h
+ID4118,RNAi-V5J24 ;feeding-drop ;16h
+ID4119,RNAi-V5J24 ;feeding-drop ;16h
+ID4120,RNAi-V5J24 ;feeding-drop ;16h
+ID4121,RNAi-V5J24 ;feeding-drop ;16h
+ID3401,RNAi-V4F01 ;feeding-drop ;24h
+ID3402,RNAi-V4F01 ;feeding-drop ;24h
+ID3403,RNAi-V4F01 ;feeding-drop ;24h
+ID3404,RNAi-V4F01 ;feeding-drop ;24h
+ID3406,RNAi-V4F01 ;feeding-drop ;24h
+ID3407,RNAi-V4F01 ;feeding-drop ;24h
+ID3408,RNAi-V4F01 ;feeding-drop ;24h
+ID3409,RNAi-V4F01 ;feeding-drop ;24h
+ID3410,RNAi-V4F01 ;feeding-drop ;24h
+ID3411,RNAi-V4F01 ;feeding-drop ;24h
+ID3412,RNAi-V4F01 ;feeding-drop ;24h
+ID3413,RNAi-V4F01 ;feeding-drop ;24h
+ID1845,RNAi-IV7P23 ;feeding-drop ;24h
+ID1846,RNAi-IV7P23 ;feeding-drop ;24h
+ID1847,RNAi-IV7P23 ;feeding-drop ;24h
+ID1848,RNAi-IV7P23 ;feeding-drop ;24h
+ID1850,RNAi-IV7P23 ;feeding-drop ;24h
+ID1851,RNAi-IV7P23 ;feeding-drop ;24h
+ID1558,RNAi-III5O13 ;feeding-drop ;12h
+ID1559,RNAi-III5O13 ;feeding-drop ;12h
+ID1560,RNAi-III5O13 ;feeding-drop ;12h
+ID1557,RNAi-III5O13 ;feeding-drop ;12h
+ID3760,RNAi-IV6G03 ;feeding-drop ;24h
+ID3761,RNAi-IV6G03 ;feeding-drop ;24h
+ID3762,RNAi-IV6G03 ;feeding-drop ;24h
+ID3763,RNAi-IV6G03 ;feeding-drop ;24h
+ID3764,RNAi-IV6G03 ;feeding-drop ;24h
+ID3765,RNAi-IV6G03 ;feeding-drop ;24h
+ID4122,RNAi-II7K23 ;injection ;41h
+ID4123,RNAi-II7K23 ;injection ;41h
+ID4124,RNAi-II7K23 ;injection ;41h
+ID4125,RNAi-II7K23 ;injection ;41h
+ID4126,RNAi-II7K23 ;injection ;41h
+ID4127,RNAi-II7K23 ;injection ;41h
+ID4128,RNAi-II7K23 ;injection ;41h
+ID4129,RNAi-II7K23 ;injection ;41h
+ID4169,RNAi-II7K23 ;injection ;41h
+ID4170,RNAi-II7K23 ;injection ;41h
+ID1835,RNAi-II7K23 ;feeding-drop ;24h
+ID1836,RNAi-II7K23 ;feeding-drop ;24h
+ID1837,RNAi-II7K23 ;feeding-drop ;24h
+ID1838,RNAi-II7K23 ;feeding-drop ;24h
+ID1839,RNAi-II7K23 ;feeding-drop ;24h
+ID1840,RNAi-II7K23 ;feeding-drop ;24h
+ID1841,RNAi-II7K23 ;feeding-drop ;24h
+ID1842,RNAi-II7K23 ;feeding-drop ;24h
+ID1269,RNAi-III5G03 ;feeding-drop ;24h
+ID1270,RNAi-III5G03 ;feeding-drop ;24h
+ID1271,RNAi-III5G03 ;feeding-drop ;24h
+ID1275,RNAi-III5G03 ;feeding-drop ;24h
+ID1278,RNAi-III5G03 ;feeding-drop ;24h
+ID8315,RNAi-IV3G8 ;feeding-2mM ;16h
+ID8316,RNAi-IV3G8 ;feeding-2mM ;16h
+ID8317,RNAi-IV3G8 ;feeding-2mM ;16h
+ID8318,RNAi-IV3G8 ;feeding-2mM ;16h
+ID8321,RNAi-IV3G8 ;feeding-2mM ;16h
+ID8324,RNAi-IV3G8 ;feeding-2mM ;16h
+ID8347,RNAi-I1P04 ;feeding-2mM ;20h
+ID8348,RNAi-I1P04 ;feeding-2mM ;20h
+ID8349,RNAi-I1P04 ;feeding-2mM ;20h
+ID8350,RNAi-I1P04 ;feeding-2mM ;20h
+ID8351,RNAi-I1P04 ;feeding-2mM ;20h
+ID2024,RNAi-bact16 ;feeding-drop ;24h
+ID2025,RNAi-bact16 ;feeding-drop ;24h
+ID2026,RNAi-bact16 ;feeding-drop ;24h
+ID2028,RNAi-bact16 ;feeding-drop ;24h
+ID2029,RNAi-bact16 ;feeding-drop ;24h
+ID2030,RNAi-bact16 ;feeding-drop ;24h
+ID2031,RNAi-bact16 ;feeding-drop ;24h
+ID2032,RNAi-bact16 ;feeding-drop ;24h
+ID2033,RNAi-bact16 ;feeding-drop ;24h
+ID2034,RNAi-bact16 ;feeding-drop ;24h
+ID2035,RNAi-bact16 ;feeding-drop ;24h
+ID2036,RNAi-bact16 ;feeding-drop ;24h
+ID2027,RNAi-bact16 ;feeding-drop ;24h
+ID1843,RNAi-bact16 ;feeding-drop ;24h
+ID1844,RNAi-bact16 ;feeding-drop ;24h
+ID1357,RNAi-II9O07 ;feeding-drop ;24h
+ID1351,RNAi-II9O07 ;feeding-drop ;24h
+ID1352,RNAi-II9O07 ;feeding-drop ;24h
+ID1353,RNAi-II9O07 ;feeding-drop ;24h
+ID1355,RNAi-II9O07 ;feeding-drop ;24h
+ID1356,RNAi-II9O07 ;feeding-drop ;24h
+ID1014,RNAi-II5N06 ;feeding-drop ;24h
+ID1015,RNAi-II5N06 ;feeding-drop ;24h
+ID936,RNAi-II5N06 ;feeding-drop ;24h
+ID1016,RNAi-II5N06 ;feeding-drop ;24h
+ID1017,RNAi-II5N06 ;feeding-drop ;24h
+ID1018,RNAi-II5N06 ;feeding-drop ;24h
+ID3420,RNAi-III2J07 ;feeding-drop ;24h
+ID3422,RNAi-III2J07 ;feeding-drop ;24h
+ID3426,RNAi-III2J07 ;feeding-drop ;24h
+ID2553,RNAi-III4O16 ;feeding-drop ;24h
+ID2554,RNAi-III4O16 ;feeding-drop ;24h
+ID2555,RNAi-III4O16 ;feeding-drop ;24h
+ID2556,RNAi-III4O16 ;feeding-drop ;24h
+ID2557,RNAi-III4O16 ;feeding-drop ;24h
+ID7055,mutant-h1960 ;;RNAi-none ;feeding-3mM ;24h
+ID7056,mutant-h1960 ;;RNAi-none ;feeding-3mM ;24h
+ID7057,mutant-h1960 ;;RNAi-none ;feeding-3mM ;24h
+ID7058,mutant-h1960 ;;RNAi-none ;feeding-3mM ;24h
+ID7059,mutant-h1960 ;;RNAi-none ;feeding-3mM ;24h
+ID7060,mutant-h1960 ;;RNAi-none ;feeding-3mM ;24h
+ID7061,mutant-h1960 ;;RNAi-none ;feeding-3mM ;24h
+ID7062,mutant-h1960 ;;RNAi-none ;feeding-3mM ;24h
+ID7063,mutant-h1960 ;;RNAi-none ;feeding-3mM ;24h
+ID7001,mutant-h1960 ;;RNAi-none ;feeding-drop ;24h
+ID7002,mutant-h1960 ;;RNAi-none ;feeding-drop ;24h
+ID7003,mutant-h1960 ;;RNAi-none ;feeding-drop ;24h
+ID7004,mutant-h1960 ;;RNAi-none ;feeding-drop ;24h
+ID7005,mutant-h1960 ;;RNAi-none ;feeding-drop ;24h
+ID7006,mutant-h1960 ;;RNAi-none ;feeding-drop ;24h
+ID7007,mutant-h1960 ;;RNAi-none ;feeding-drop ;24h
+ID7008,mutant-h1960 ;;RNAi-none ;feeding-drop ;24h
+ID7311,mutant-h1960 ;;mutant-gk2 ;;RNAi-I3J11 ;feeding-3mM ;48h
+ID7313,mutant-h1960 ;;mutant-gk2 ;;RNAi-I3J11 ;feeding-3mM ;48h
+ID7314,mutant-h1960 ;;mutant-gk2 ;;RNAi-I3J11 ;feeding-3mM ;48h
+ID7315,mutant-h1960 ;;mutant-gk2 ;;RNAi-I3J11 ;feeding-3mM ;48h
+ID7316,mutant-h1960 ;;mutant-gk2 ;;RNAi-I3J11 ;feeding-3mM ;48h
+ID7317,mutant-h1960 ;;mutant-gk2 ;;RNAi-I3J11 ;feeding-3mM ;48h
+ID7319,mutant-h1960 ;;mutant-gk2 ;;RNAi-I3J11 ;feeding-3mM ;48h
+ID7601,RNAi-X2I17 ;feeding-drop ;24h
+ID7602,RNAi-X2I17 ;feeding-drop ;24h
+ID7603,RNAi-X2I17 ;feeding-drop ;24h
+ID7604,RNAi-X2I17 ;feeding-drop ;24h
+ID7605,RNAi-X2I17 ;feeding-drop ;24h
+ID7606,RNAi-X2I17 ;feeding-drop ;24h
+ID7607,RNAi-X2I17 ;feeding-drop ;24h
+ID7608,RNAi-X2I17 ;feeding-drop ;24h
+ID7296,mutant-h1960 ;;mutant-gk2 ;;RNAi-none ;feeding-3mM ;24h
+ID7297,mutant-h1960 ;;mutant-gk2 ;;RNAi-none ;feeding-3mM ;24h
+ID7298,mutant-h1960 ;;mutant-gk2 ;;RNAi-none ;feeding-3mM ;24h
+ID7299,mutant-h1960 ;;mutant-gk2 ;;RNAi-none ;feeding-3mM ;24h
+ID7300,mutant-h1960 ;;mutant-gk2 ;;RNAi-none ;feeding-3mM ;24h
+ID7301,mutant-h1960 ;;mutant-gk2 ;;RNAi-none ;feeding-3mM ;24h
+ID7302,mutant-h1960 ;;mutant-gk2 ;;RNAi-none ;feeding-3mM ;24h
+ID7303,mutant-h1960 ;;mutant-gk2 ;;RNAi-none ;feeding-3mM ;24h
+ID6782,RNAi-ebp-D ;feeding-3mM ;48h ;;RNAi-ebp-D ;feeding-3mM ;48h
+ID6783,RNAi-ebp-D ;feeding-3mM ;48h ;;RNAi-ebp-D ;feeding-3mM ;48h
+ID6784,RNAi-ebp-D ;feeding-3mM ;48h ;;RNAi-ebp-D ;feeding-3mM ;48h
+ID6785,RNAi-ebp-D ;feeding-3mM ;48h ;;RNAi-ebp-D ;feeding-3mM ;48h
+ID6786,RNAi-ebp-D ;feeding-3mM ;48h ;;RNAi-ebp-D ;feeding-3mM ;48h
+ID6419,RNAi-ebp-D ;feeding-2mM ;24h ;;RNAi-ebp-D ;feeding-2mM ;24h
+ID6420,RNAi-ebp-D ;feeding-2mM ;24h ;;RNAi-ebp-D ;feeding-2mM ;24h
+ID6421,RNAi-ebp-D ;feeding-2mM ;24h ;;RNAi-ebp-D ;feeding-2mM ;24h
+ID6422,RNAi-ebp-D ;feeding-2mM ;24h ;;RNAi-ebp-D ;feeding-2mM ;24h
+ID6423,RNAi-ebp-D ;feeding-2mM ;24h ;;RNAi-ebp-D ;feeding-2mM ;24h
+ID6424,RNAi-ebp-D ;feeding-2mM ;24h ;;RNAi-ebp-D ;feeding-2mM ;24h
+ID6425,RNAi-ebp-D ;feeding-2mM ;24h ;;RNAi-ebp-D ;feeding-2mM ;24h
+ID6426,RNAi-ebp-D ;feeding-2mM ;24h ;;RNAi-ebp-D ;feeding-2mM ;24h
+ID2170,RNAi-IV5D24 ;feeding-drop ;24h
+ID2203,RNAi-IV5D24 ;feeding-drop ;24h
+ID2205,RNAi-IV5D24 ;feeding-drop ;24h
+ID2206,RNAi-IV5D24 ;feeding-drop ;24h
+ID2207,RNAi-IV5D24 ;feeding-drop ;24h
+ID2209,RNAi-IV5D24 ;feeding-drop ;24h
+ID2210,RNAi-IV5D24 ;feeding-drop ;24h
+ID2212,RNAi-IV5D24 ;feeding-drop ;24h
+ID2213,RNAi-IV5D24 ;feeding-drop ;24h
+ID2251,RNAi-IV5D24 ;feeding-drop ;24h
+ID2255,RNAi-IV5D24 ;feeding-drop ;24h
+ID2252,RNAi-IV5D24 ;feeding-drop ;24h
+ID2256,RNAi-IV5D24 ;feeding-drop ;24h
+ID2257,RNAi-IV5D24 ;feeding-drop ;24h
+ID2258,RNAi-IV5D24 ;feeding-drop ;24h
+ID2202,RNAi-IV5D24 ;feeding-drop ;24h
+ID4204,RNAi-I7D17 ;feeding-drop ;24h
+ID4205,RNAi-I7D17 ;feeding-drop ;24h
+ID4206,RNAi-I7D17 ;feeding-drop ;24h
+ID4207,RNAi-I7D17 ;feeding-drop ;24h
+ID4209,RNAi-I7D17 ;feeding-drop ;24h
+ID4210,RNAi-I7D17 ;feeding-drop ;24h
+ID4212,RNAi-I7D17 ;feeding-drop ;24h
+ID8968,mutant-gk756 ;;mutant-gk470
+ID8969,mutant-gk756 ;;mutant-gk470
+ID8970,mutant-gk756 ;;mutant-gk470
+ID8971,mutant-gk756 ;;mutant-gk470
+ID8992,mutant-gk756 ;;mutant-gk470
+ID8973,mutant-gk756 ;;mutant-gk470
+ID8974,mutant-gk756 ;;mutant-gk470
+ID8975,mutant-gk756 ;;mutant-gk470
+ID9490,RNAi-IV3G8 ;feeding-2mM ;16h ;;mutant-gk756
+ID9491,RNAi-IV3G8 ;feeding-2mM ;16h ;;mutant-gk756
+ID9492,RNAi-IV3G8 ;feeding-2mM ;16h ;;mutant-gk756
+ID9493,RNAi-IV3G8 ;feeding-2mM ;16h ;;mutant-gk756
+ID9495,RNAi-IV3G8 ;feeding-2mM ;16h ;;mutant-gk756
+ID9496,RNAi-IV3G8 ;feeding-2mM ;16h ;;mutant-gk756
+ID9497,RNAi-IV3G8 ;feeding-2mM ;16h ;;mutant-gk756
+ID9498,RNAi-IV3G8 ;feeding-2mM ;16h ;;mutant-gk756
+ID8901,RNAi-II8A5 ;feeding-1mM ;24h
+ID8902,RNAi-II8A5 ;feeding-1mM ;24h
+ID8903,RNAi-II8A5 ;feeding-1mM ;24h
+ID8904,RNAi-II8A5 ;feeding-1mM ;24h
+ID8905,RNAi-II8A5 ;feeding-1mM ;24h
+ID8906,RNAi-II8A5 ;feeding-1mM ;24h
+ID8907,RNAi-II8A5 ;feeding-1mM ;24h
+ID8908,RNAi-II8A5 ;feeding-1mM ;24h
+ID10651,RNAi-I5K03 ;feeding-1mM ;24h
+ID10653,RNAi-I5K03 ;feeding-1mM ;24h
+ID10654,RNAi-I5K03 ;feeding-1mM ;24h
+ID10657,RNAi-I5K03 ;feeding-1mM ;24h
+ID10659,RNAi-I5K03 ;feeding-1mM ;24h
+ID10660,RNAi-I5K03 ;feeding-1mM ;24h
+ID10612,RNAi ;feeding-1mM ;6h-10h
+ID10613,RNAi ;feeding-1mM ;6h-10h
+ID10614,RNAi ;feeding-1mM ;6h-10h
+ID10615,RNAi ;feeding-1mM ;6h-10h
+ID10616,RNAi ;feeding-1mM ;6h-10h
+ID10617,RNAi ;feeding-1mM ;6h-10h
+ID10618,RNAi ;feeding-1mM ;6h-10h
+ID10619,RNAi ;feeding-1mM ;6h-10h
+ID10620,RNAi ;feeding-1mM ;6h-10h
+ID10621,RNAi ;feeding-1mM ;6h-10h
+ID9924,RNAi-I4O08 ;feeding-1mM ;6h-10h
+ID9925,RNAi-I4O08 ;feeding-1mM ;6h-10h
+ID9926,RNAi-I4O08 ;feeding-1mM ;6h-10h
+ID9927,RNAi-I4O08 ;feeding-1mM ;6h-10h
+ID9928,RNAi-I4O08 ;feeding-1mM ;6h-10h
+ID9951,RNAi-I4O08 ;feeding-1mM ;6h-10h
+ID9953,RNAi-I4O08 ;feeding-1mM ;6h-10h
+ID9954,RNAi-I4O08 ;feeding-1mM ;6h-10h
+ID9955,RNAi-I4O08 ;feeding-1mM ;6h-10h
+ID12179,RNAi ;feeding ;1mM_6h
+ID12213,RNAi ;feeding ;1mM_6h
+ID12215,RNAi ;feeding ;1mM_6h
+ID12216,RNAi ;feeding ;1mM_6h
+ID12364,RNAi ;feeding ;1mM_6h
+ID12366,RNAi ;feeding ;1mM_6h
+ID12367,RNAi ;feeding ;1mM_6h
+ID12378,RNAi ;feeding ;1mM_6h
+ID12379,RNAi ;feeding ;1mM_6h
+ID9802,RNAi ;feeding-3mM ;48h
+ID9803,RNAi ;feeding-3mM ;48h
+ID9804,RNAi ;feeding-3mM ;48h
+ID9805,RNAi ;feeding-3mM ;48h
+ID9806,RNAi ;feeding-3mM ;48h
+ID9807,RNAi ;feeding-3mM ;48h
+ID9808,RNAi ;feeding-3mM ;48h
+ID9809,RNAi ;feeding-3mM ;48h
+ID9810,RNAi ;feeding-3mM ;48h
+ID9811,RNAi ;feeding-3mM ;48h
+ID12409,RNAi-III3A01 ;feeding-1mM ;24h
+ID12410,RNAi-III3A01 ;feeding-1mM ;24h
+ID12411,RNAi-III3A01 ;feeding-1mM ;24h
+ID12412,RNAi-III3A01 ;feeding-1mM ;24h
+ID12413,RNAi-III3A01 ;feeding-1mM ;24h
+ID12532,RNAi-III3A01 ;feeding-1mM ;24h
+ID12533,RNAi-III3A01 ;feeding-1mM ;24h
+ID12534,RNAi-III3A01 ;feeding-1mM ;24h
+ID12537,RNAi-III3A01 ;feeding-1mM ;24h
+ID12538,RNAi-III3A01 ;feeding-1mM ;24h
+ID12531,RNAi-III3A01 ;feeding-1mM ;24h
+ID12523,RNAi-III3A01 ;feeding-1mM ;24h
+ID12524,RNAi-III3A01 ;feeding-1mM ;24h
+ID12525,RNAi-III3A01 ;feeding-1mM ;24h
+ID12526,RNAi-III3A01 ;feeding-1mM ;24h
+ID12414,RNAi-III3A01 ;feeding-1mM ;30h
+ID12415,RNAi-III3A01 ;feeding-1mM ;30h
+ID12416,RNAi-III3A01 ;feeding-1mM ;30h
+ID12417,RNAi-III3A01 ;feeding-1mM ;30h
+ID12418,RNAi-III3A01 ;feeding-1mM ;30h
+ID12419,RNAi-III3A01 ;feeding-1mM ;30h
+ID12392,RNAi-III3A01 ;feeding ;3mM_48h
+ID12393,RNAi-III3A01 ;feeding ;3mM_48h
+ID12395,RNAi-III3A01 ;feeding ;3mM_48h
+ID12397,RNAi-III3A01 ;feeding ;3mM_48h
+ID12398,RNAi-III3A01 ;feeding ;3mM_48h
+ID12399,RNAi-III3A01 ;feeding ;3mM_48h
+ID12679,RNAi-III3A01 ;feeding ;3mM_48h
+ID12680,RNAi-III3A01 ;feeding ;3mM_48h
+ID12681,RNAi-III3A01 ;feeding ;3mM_48h
+ID12683,RNAi-III3A01 ;feeding ;3mM_48h
+ID12684,RNAi-III3A01 ;feeding ;3mM_48h
+ID12553,RNAi ;feeding-3mM ;48h
+ID12554,RNAi ;feeding-3mM ;48h
+ID12555,RNAi ;feeding-3mM ;48h
+ID12557,RNAi ;feeding-3mM ;48h
+ID12558,RNAi ;feeding-3mM ;48h
+ID12561,RNAi ;feeding-3mM ;48h
+ID12564,RNAi ;feeding-3mM ;48h
+ID12326,mutant-h1960
+ID12327,mutant-h1960
+ID12328,mutant-h1960
+ID12330,mutant-h1960
+ID12332,mutant-h1960
+ID12333,mutant-h1960
+ID12334,mutant-h1960
+ID12335,mutant-h1960
+ID12337,mutant-h1960
+ID12338,mutant-h1960
+ID12339,mutant-h1960
+ID12180,RNAi ;feeding-1mM ;48h
+ID12181,RNAi ;feeding-1mM ;48h
+ID12182,RNAi ;feeding-1mM ;48h
+ID12184,RNAi ;feeding-1mM ;48h
+ID12185,RNAi ;feeding-1mM ;48h
+ID12186,RNAi ;feeding-1mM ;48h
+ID12271,RNAi ;feeding-1mM ;48h
+ID12277,RNAi ;feeding-1mM ;48h
+ID12513,RNAi ;feeding-1mM ;48h
+ID12503,RNAi ;feeding-1mM ;48h
+ID12510,RNAi ;feeding-1mM ;48h
+ID12512,RNAi ;feeding-1mM ;48h
+ID12228,RNAi ;feeding-1mM ;34h
+ID12265,RNAi ;feeding-1mM ;34h
+ID12267,RNAi ;feeding-1mM ;34h
+ID12269,RNAi ;feeding-1mM ;34h
+ID12270,RNAi ;feeding-1mM ;34h
+ID12385,RNAi-colombo2003 ;feeding ;3mM_24h ;;RNAi-colombo2003 ;feeding ;3mM_24h
+ID12386,RNAi-colombo2003 ;feeding ;3mM_24h ;;RNAi-colombo2003 ;feeding ;3mM_24h
+ID12387,RNAi-colombo2003 ;feeding ;3mM_24h ;;RNAi-colombo2003 ;feeding ;3mM_24h
+ID12388,RNAi-colombo2003 ;feeding ;3mM_24h ;;RNAi-colombo2003 ;feeding ;3mM_24h
+ID12389,RNAi-colombo2003 ;feeding ;3mM_24h ;;RNAi-colombo2003 ;feeding ;3mM_24h
+ID12390,RNAi-colombo2003 ;feeding ;3mM_24h ;;RNAi-colombo2003 ;feeding ;3mM_24h
+ID12663,RNAi-colombo2003 ;feeding ;3mM_24h ;;RNAi-colombo2003 ;feeding ;3mM_24h
+ID12664,RNAi-colombo2003 ;feeding ;3mM_24h ;;RNAi-colombo2003 ;feeding ;3mM_24h
+ID12666,RNAi-colombo2003 ;feeding ;3mM_24h ;;RNAi-colombo2003 ;feeding ;3mM_24h
+ID12667,RNAi-III1K08 ;feeding ;3mM_48h
+ID12668,RNAi-III1K08 ;feeding ;3mM_48h
+ID12669,RNAi-III1K08 ;feeding ;3mM_48h
+ID12670,RNAi-III1K08 ;feeding ;3mM_48h
+ID12672,RNAi-III1K08 ;feeding ;3mM_48h
+ID12400,RNAi-III1K08 ;feeding ;3mM_48h
+ID12401,RNAi-III1K08 ;feeding ;3mM_48h
+ID12402,RNAi-III1K08 ;feeding ;3mM_48h
+ID12590,RNAi-III1K08 ;feeding ;3mM_48h
+ID12591,RNAi-III1K08 ;feeding ;3mM_48h
+ID12592,RNAi-III1K08 ;feeding ;3mM_48h
+ID12593,RNAi-III1K08 ;feeding ;3mM_48h
+ID12596,RNAi-III1K08 ;feeding ;3mM_48h
+ID12597,RNAi-III1K08 ;feeding ;3mM_48h

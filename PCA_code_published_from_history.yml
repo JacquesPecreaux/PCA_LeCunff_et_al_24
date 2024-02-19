@@ -1,0 +1,19 @@
+name: PCA_code_published
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ca-certificates
+  - certifi
+  - colorcet
+  - jupyterlab
+  - matplotlib
+  - openssl
+  - pandas
+  - plotly
+  - python=3.11
+  - scikit-learn
+  - scikit-learn-intelex
+  - scipy
+  - seaborn
+prefix: /Users/jacques/anaconda3/envs/PCA_code_published
